@@ -1,0 +1,506 @@
+Timestamp,City ,Hospital Name/ Campus (Optional),Years of Experience,"Specialty (Cardiac, ER, GI, L&D, etc)",Hourly Base Pay (Diff not included),Shift Diff Amount (if any) ,"Type Of Shift Diff (nights, Baylor, Critical Care, Etc) "
+12/5/2019 14:17:05,Colorado Springs ,,,Peds Surgery ,33.15,2.65,
+12/5/2019 14:29:41,Grand Junction,St Mary’s,2,Orthopedics,25,,Day
+12/5/2019 14:36:03,Colorado Springs,UCHealth,2.5,Renal,29,5,Nights
+12/5/2019 14:42:10,Denver ,Children’s Hospital Colorado,6,,35.25,,
+12/5/2019 14:42:17,Denver ,Children’s Hospital Colorado,6,,35.25,,
+12/5/2019 14:42:24,,,,,,,
+12/5/2019 14:47:54,Englewood,,1,ICU,28,4,Nights
+12/5/2019 14:46:20,Denver,,9,Oncology/BMT,38,,
+12/5/2019 14:49:01,Denver,UCHealth,2.5,ICU,28.23,5,Nights
+12/5/2019 15:04:45,Coloraos Springs,Memorial Central Hospital,1,Float Pool,29,4,Nights
+12/5/2019 15:15:03,Denver,University of Colorado Hospital (Anschutz),2,Med-Surg Charge RN,31.95,5,"Nights (2300-0700); $2.50 for weekends, $2.50 for evenings (1500-2300)"
+12/5/2019 15:15:54,Denver,University of Colorado Hospital Anschutz ,2,Med-Surg,28.12,2.5,Weekends
+12/5/2019 15:16:43,Denver,University of Colorado Hospital,1,Med Surg (new grad),24.1,5,Nights (2300-0700)
+12/5/2019 15:28:16,Greeley ,Banner health,6,Dialysis,,,Day
+12/5/2019 15:35:58,Denver,,3.5,ICU ,32,4,Night 
+12/5/2019 15:45:17,Denver,SCL Health,3,L&D,29.51,5,Nights 
+12/5/2019 15:58:21,Pueblo,Parkview,1.5,Med Surg,27.35,,Days 
+12/5/2019 16:09:23,Denver,UCHealth,4,Postpartum,31.29,,
+12/5/2019 16:29:50,Boulder,,3.5,GI Lab,31.5,,
+12/5/2019 16:43:30,Denver ,,1,Progressive care/Step down ,27,5,Nights 
+12/5/2019 16:57:51,Aurora,UCHEALTH,10,Triage,36.4,,
+12/5/2019 17:26:28,Aurora,,1,Oncology,27,5,"Nights (also: 2.50 for weekend, 2.50 for evening 1500-2300)"
+12/5/2019 18:22:38,Boulder ,Boulder Community Health,1,Mental Health,30.86,8,Nights
+12/5/2019 18:47:45,Wheat Ridge,LMC,1,Hospice,31.04,4.75,Nights weekend add extra 2.75
+12/5/2019 20:48:50,Aurora,UCHealth,8,ER,36.56,,Days
+12/5/2019 22:05:01,Lakewood,,13,Pre-Op/PACU,39.2,1.25,"CCRN, CPAN"
+12/5/2019 22:35:50,,,,,36.49,4.8,Evenings 
+12/5/2019 23:10:44,Grand junction,St Mary’s ,1,ICU,25,4.5,Nights 
+12/6/2019 0:26:40,Aurora,UCHealth,12,MSPCU,36,5,nights
+12/6/2019 1:29:04,Denver,,10,Dialysis,41,,
+12/6/2019 5:13:47,Denver,Agency Float Pool,5,Telemetry/PCU,46,1,Nights
+12/6/2019 23:54:26,Denver,,4,OR,33.23,,
+12/7/2019 0:16:57,Aurora,VA,0,OR,37.01,,Days
+12/7/2019 1:00:39,Boulder,,4,Labor and Delivery,31,,
+12/10/2019 15:30:28,Aurora,Univeristy of Colorado hospital ,,NICU,44,3,Nights 
+12/10/2019 18:40:53,Denver,,6,L&D,32.06,,Days
+12/11/2019 1:42:55,Denver,Denver Springs,3,Psychiatric,35.5,4,Nights
+12/11/2019 5:16:40,Denver,Childrens Hospital Colorado,8,,38.75,,
+12/14/2019 0:25:28,Loveland Co,,2.5,Ortho/neuro,28.5,,
+12/29/2019 22:42:24,Denver,Swedish Medical Center,1.5,Med/surg,27.5,4,nights
+12/31/2019 18:43:35,Pueblo,Parkview Medical Center,3.5,CVICU,32.28,3.4,Nights
+1/5/2020 23:17:34,Denver,,1,ER,29,5.75,Nights
+1/7/2020 11:13:53,Lakewood,,7,ER,33.23,,"2/hr Weekend, 2.75/hr Evening, 5.75/hr Night"
+1/7/2020 18:14:54,Alamosa ,,2,ER,28,5,Days
+1/9/2020 9:20:34,Denver,,0,L&D,27,5,Night
+1/11/2020 9:25:41,Pueblo,Parkview,3,Medsurg,27.35,,Days
+1/17/2020 10:26:24,Aurora/Denver,University ,4,Transplant ,30.3,7.5,Weekend/ Nights 
+1/17/2020 10:32:43,Denver ,Porter Adventist ,0.5,Cardiac telemetry,28.85,5,Nights 
+1/17/2020 10:39:27,,,,,,,
+1/17/2020 13:12:39,Greeley,,1,Addiction Medicine,23,,"Days, no weekends or holidays"
+1/17/2020 13:46:48,Eads,Weisbrod Community Hospital,0,ER/MedSurg ,31,3,Nights 
+1/17/2020 15:44:59,Lakewood ,Centura - St Anthony ,4,Neuro - ortho - trauma ,32.5,,
+1/17/2020 15:45:09,Lakewood ,Centura - St Anthony ,4,Neuro - ortho - trauma ,32.5,,
+1/17/2020 15:48:57,Fort Collins,UCHealth,1.5,Med Surg,28,5,Nights
+1/17/2020 15:53:38,Colorado Springs ,Memorial Central ,5,OB,30.98,,
+1/17/2020 16:10:25,Littleton,Littleton Adventist Hospital,1.5,Med-Surg,30.25,5.75,Nights
+1/17/2020 16:37:23,Grand Forks ,,1,ICU,30,4,Nights 
+1/17/2020 16:37:51,Grand Forks ,,1,ICU,30,4,Nights 
+1/17/2020 17:25:29,Denver metro area,Public school district,0.75,Pediatrics,33.98,,
+1/17/2020 18:17:43,Fort morgan,Colorado plains medical center,0,Med/surg-ICU,27.47,33.37,Nights
+1/17/2020 18:41:42,Aurora,TMCA,8,PACU,33,,
+1/17/2020 20:22:40,Fort Collins,Poudre Valley Hospital,4,MS Oncology,32.5,5,Nights
+1/17/2020 23:54:44,Loveland,Medical Center of the Rockies,3,Cardiac PCU,30,4,Nights
+1/18/2020 0:26:19,Longmont,,22,L&D,44.15,,Days 
+1/18/2020 1:12:18,Fort Collins,,7,OR,34,2,
+1/18/2020 1:59:19,Fort collins,Poudre valley hospital,11,Nicu,34.15,5,Nights
+1/18/2020 7:45:13,,,7,L&D,32.55,10.5,Nights + PRN
+1/18/2020 10:34:43,Denver,,3,Cardiac,29.3,4,Nights/ICU
+1/18/2020 13:42:39,Longmont ,,2,Home health,40,,
+1/19/2020 1:47:34,Denver,,8,Cath Lab,35.5,,
+1/19/2020 9:33:57,,,,,,,
+1/19/2020 15:39:10,Greeley,,1.5,Public Health,32,,
+1/21/2020 0:20:17,Colorado springs,Uc health ,0,Cardiac new grad ,27,5,Nights +5 after 11 pm
+1/22/2020 11:10:06,Aurora ,TMCA,,,27,4,Night
+1/22/2020 15:48:31,Denver,,1,Rehab,31,5,Nights
+1/22/2020 17:45:54,Denver,UCH,2,ICU,27.7,,
+1/22/2020 17:46:04,Denver,UCH,2,ICU,27.7,,
+1/22/2020 18:52:25,Thornton,,0,L&D,28,4,Nights
+1/24/2020 11:42:00,Denver,,3,Pediatrics,33.65,4,Nights
+1/24/2020 12:25:46,Glenwood Springs,Valley View Hospital,3.5,L&D,31.45,4,Nights
+1/24/2020 14:11:48,Frisco,Centura,13,ER,38.3,5.75,Nights
+1/24/2020 14:14:37,Frisco,Centura,13,ER,38.3,5.75,Nights
+1/24/2020 15:30:32,,,7,,37.23,2,
+1/24/2020 15:31:23,,,7,,37.23,2,
+1/24/2020 17:21:06,Denver,University of Colorado Hospital,0.5,OR,27,,
+1/24/2020 23:20:20,Louisville ,Avista Adventist ,1,L&D,30,2,Night
+1/25/2020 10:41:14,Durango,Mercy ,4.5,Cardiac,33.63,,
+1/29/2020 23:55:47,Greeley,North Colorado Medical Center,0.5,PCU,26.55,4,Nights 
+1/29/2020 23:58:22,Denver Metro,,4,ER,33.1,2.5,"2.50/hr weekends, 2.50/hr mids (most of shift 3p-11p), 4.50/hr nights (most of shift 11p-7a)"
+1/30/2020 0:24:36,Denver,UCHealth,1.5,Neuro ICU,27.74,,
+1/30/2020 11:56:06,,,,,,,
+1/30/2020 13:24:15,,,,,,,
+2/2/2020 16:53:48,Thornton,North Suburban ,0,Med Surg,27.5,5,Nights/weekends 
+2/2/2020 23:12:30,Boulder,,2,med/surg,29.08,,Days
+2/2/2020 23:12:38,Boulder,,2,med/surg,29.08,,Days
+2/2/2020 23:12:58,Boulder,,2,med/surg,29.08,,Days
+2/3/2020 13:08:50,Longmont ,Longs Peak Hospital ,12,Med Surg/Special Care Nursery/post partum ,37,5,Nights 
+2/18/2020 10:39:23,Brush,Banner Health,0.5,LDRP,28.75,3.5,Night 
+2/18/2020 10:49:34,Denver,National Jewish Health,8,House Supervisor ,39.5,2,Evening and weekend 
+2/18/2020 12:03:01,Aurora,,12,,36,,
+2/18/2020 12:20:48,Alamosa,,2,ER,27.8,5,Midshift
+2/18/2020 18:23:52,Denver,Children’s hospital colorado ,5,Pediatric surgery,35.4,2,Day
+2/18/2020 20:10:13,Colorado Springs,,2,Postpartum,29.68,,
+2/19/2020 13:51:54,Colorado Springs,CHCO,0,NICU,31.1,4.75,Nights
+2/19/2020 17:16:20,Denver,Telehealth (work from home),6,No specialty but previous ICU experience,39,2.5,Evening
+2/19/2020 18:54:16,Aurora,Children’s Hospital of Colorado ,11,L&D ,39.09,4.25,Nights
+2/24/2020 1:05:13,"Westminster, CO",St. Anthony North Health Campus,10,L&D,36.48,5.75,Nights
+2/24/2020 2:25:00,Englewoood,,1,ER,28.5,4,Nights
+2/24/2020 2:25:08,Englewoood,,1,ER,28.5,4,Nights
+2/24/2020 23:20:33,Lone Tree,Sky ridge medical center,1,Ortho,27,,Days
+2/24/2020 23:26:26,Denver,,14,Infusion,39,,
+2/24/2020 23:57:14,Frisco,,9,L&D,38,,
+2/25/2020 0:10:47,Aurora,University of Colorado,1,Oncology clinic,27,,Days
+2/25/2020 0:30:43,Loveland,,3,ER,30.5,5,Nights
+2/25/2020 0:52:54,Denver,,2,ER,28.2,4,Nights
+2/25/2020 7:00:07,Parker,,9,ICU,35.22,5,Nights
+2/25/2020 9:26:16,Littleton,,1,L&D,31.08,5.75,Nights
+2/25/2020 10:17:20,Denver,Children’s Hospital Colorado,1.4,Med Surg,32.9,4.75,Nights
+2/25/2020 11:19:44,Montrose,,8,,30.6,,
+2/25/2020 12:03:30,Denver ,,0.5,OR,29,,
+2/25/2020 12:50:23,Colorado Springs,,3,Long term care,30.4,,
+2/25/2020 13:10:08,Denver,SCL Health ,8,Talent Share Float Pool,42,,Day Shift
+2/25/2020 13:13:20,Boulder,BCH,3,Oncology,28,,Day
+2/25/2020 14:51:58,Denver,Centura,1,ER,28,5,Nights
+2/25/2020 15:25:54,Denver,Saint Joseph hospital ,13,L&D,36,,
+2/25/2020 15:26:47,Denver,Saint Joseph hospital ,13,L&D,36,,
+2/25/2020 15:26:58,Denver,Saint Joseph hospital ,13,L&D,36,,
+3/1/2020 10:18:07,Colorado springs,Penrose st francis,3,Med surg,29.8,3,Weekends
+3/26/2020 4:47:43,Denver,Denver Springs,3,Psych,36.25,4,Nights
+3/31/2020 20:59:06,Glenwood springs,,1,med surg,28,4,nights
+3/31/2020 20:59:18,,,,,,,
+3/31/2020 21:38:02,Pueblo,,4,Med Surg,40.75,,PRN Days
+3/31/2020 22:11:50,Denver,,1,Medical telemetry,27,4,Nights
+3/31/2020 22:52:43,Denver,UCHealth ,2.5,,29,6,Day
+3/31/2020 22:56:45,Pueblo,Parkview Medical Center,1,Float pool med surgical,26,4,Float pool
+3/31/2020 23:08:00,Denver,University of Colorado Anschutz,5,Neuro ICU,30.31,4,Nights
+4/1/2020 3:49:05,Colorado Springs,,7,Critical Care,33,4,Nights
+4/1/2020 3:56:13,Loveland,,2,Trauma ICU,30,5,Nights
+4/1/2020 6:30:35,Greeley,Banner Health,1,Float pool ,28,7,Float and night differential 
+4/1/2020 10:21:51,Denver,Children’s hospital of Colorado ,2,PICU,34.25,4.75,Nights
+4/2/2020 1:31:04,Denver ,Rehab hospital ,1,Rehab,26.75,2,4
+4/2/2020 1:40:34,Denver,,5,,39,,Days float 
+4/2/2020 2:27:47,Denver,Hospice ,1,Outpatient ,34,,
+4/5/2020 11:18:00,Boulder,Boulder Community Health,7,Multiple Areas,34,,"Evenings, nights, call pay"
+4/21/2020 19:01:42,Pueblo,Parkview Medical Center,3,Progressive Care/Telemetry ,28,,Days
+4/26/2020 19:46:51,Denver,Porter Adventist Hospital,2.5,Oncology ,31.07,5.75,Nights
+4/26/2020 19:47:08,Denver,Porter Adventist Hospital,2.5,Oncology ,31.07,5.75,Nights
+4/26/2020 20:33:41,Colorado Springs,,1,NICU,32.9,2.75,Weekends
+4/26/2020 20:36:18,Fort Collins ,,8,ICU ,33,5,Night
+4/26/2020 21:24:08,Denver,SCL,8,ER,42,,
+4/26/2020 23:26:43,Colorado Springs,,1,NICU,32.9,2.75,Weekends
+4/26/2020 23:59:38,,,,,,,
+4/27/2020 0:00:02,Colorado springs,,0,ICU,27,5,Nights
+4/27/2020 2:27:48,Denver,,5,ER,44.5,4,Nights/float pool
+4/27/2020 4:15:34,Fort collins,,10,Nicu,32.47,5,Nights
+4/27/2020 5:03:41,Englewood ,HCA-affiliated Hospital. Level 1,1,ICU,28,4,nights
+4/27/2020 18:10:33,Denver,Hospice/bristol,3,Hematology oncology and hospice,34.1,,Company does not pay overtime or full holiday pay
+5/10/2020 9:58:00,,,,,,,
+5/14/2020 0:11:29,Castle Rock,Castle rock Adventist ,0,Med surg ,29,5.75,Nights 
+5/14/2020 0:30:04,Colorado Springs ,UC Health,1,Med/surg,27,5,Night
+5/14/2020 0:31:45,Denver,UCHealth,0,M/S,27,5,Nights 
+5/14/2020 0:31:46,Colorado springs ,,4,Med surg ,32,,
+5/14/2020 1:19:18,Boulder,Boulder community hospital,2,Ortho/Neuro,29.75,,
+5/15/2020 1:19:14,Boulder,Boulder Community Health,12,ICU,43,8,Nights
+5/15/2020 1:34:06,,,,,,,
+5/19/2020 9:17:49,Colorado Springs,UCHEALTH- Memorial Central ,3,Intermediate Care,29.27,4,Nights 
+5/23/2020 17:35:16,Sterling,,2,Medsurg,27.5,4,Night 
+5/24/2020 13:28:38,Highlands Ranch,UCHealth Highlands Ranch Hospital,4,"Med-Surg, Orthopedics",31.75,2,Days/nights/weekends
+5/24/2020 14:36:52,Denver,,2,Ortho/spine,27.5,4,Nights
+5/25/2020 8:12:45,Broomfield ,UCHealth,14,Medsurg,41,,Days
+5/25/2020 8:12:59,Broomfield ,UCHealth,14,Medsurg,41,,Days
+5/25/2020 15:22:56,Buena vista ,,2,Family practice,28,1,Weekend
+5/25/2020 15:33:48,Denver,ERC,5,Psych,35.7,,
+5/28/2020 16:49:37,Broomfield ,UCHealth,14,Medsurg,41,,Days
+6/7/2020 0:22:33,Thornton,,1,,27,,
+6/8/2020 9:33:31,Denver ,,15,ER,36,,
+6/20/2020 0:35:26,Loveland ,,2.5,Med/Surg,30.5,,
+6/28/2020 5:25:07,Denver,,2,LTACH,32,5,Nights and weekends
+7/2/2020 5:00:02,Denver,,5,ICU/Neuro Crit Care ,34.25,5,"weekends, night"
+7/8/2020 21:12:20,,,,,,,
+7/8/2020 21:52:45,Lafayette ,,0,Med surg,29.5,4.5,Nights
+7/9/2020 0:34:36,Denver,Denver Health,14,Health Educator,30,,
+7/9/2020 7:37:18,Denver,,1,Hospice,35,,
+7/9/2020 9:22:14,Fort Collins,,4,ICU,29.86,5,Nights
+7/10/2020 20:59:31,Thornton,SNF,12,SDC,41.5,,Day
+7/25/2020 8:08:57,Denver,Presbyterian St Luke's Medical Center ,1,Medical surgical,27,4,Nights
+7/26/2020 14:48:17,Colorado Springs,Children’s hospital of Colorado,1,NICU,31,4.75,Nights
+7/26/2020 14:48:33,Colorado Springs,Children’s hospital of Colorado,1,NICU,31,4.75,Nights
+7/26/2020 14:49:36,,,,,,,
+7/27/2020 23:27:27,Grand junction ,St marys,7,L&D,29.75,,
+7/29/2020 0:13:16,Grand Junction,,2.5,OR,30,,Day
+8/5/2020 6:01:31,Aurora,Children’s Hospital Colorado,3.5,NICU level IV,35.03,4.75,Nights 
+8/27/2020 22:42:58,Aurora,,9,Nicu,36,,"Nights, critical care, weekends "
+9/3/2020 8:25:03,Del Norte,Rio Grande Hospital ,6,ER,31.93,1,Mid 0830-2100
+9/14/2020 18:04:10,Denver,Kindred hospital  Aurora ,1,Med Surg,27.5,6,Days
+9/14/2020 18:57:38,,,6,Interventional Radiology,33,,
+9/14/2020 18:58:03,Fort Collins,Banner,1,Women Infant Services,29.02,3.5,Nights
+9/14/2020 20:18:22,,,,,,,
+9/14/2020 21:29:05,Lakewood,,12,Pain Management ,45.5,,Per diem
+9/14/2020 21:30:02,Lakewood,,12,Pain Management ,45.5,,Per diem
+9/14/2020 21:30:16,Lakewood,,12,Pain Management ,45.5,,Per diem
+9/14/2020 22:35:04,Wheat Ridge ,Lutheran Medical Center,31,PACU,43,,
+9/14/2020 22:50:21,Denver ,,12,ER,43.39,5,Nights 
+9/14/2020 23:01:14,Denver,,0,Internal Medicine ,29.5,4.75,Nights 
+9/14/2020 23:01:40,Denver,,0,Internal Medicine ,29.5,4.75,Nights 
+9/14/2020 23:02:27,Denver,,0,,29.5,,
+9/14/2020 23:05:43,denver,,0,internal medicine,29.5,4.75,nights
+9/14/2020 23:25:00,Denver,Parker Adventist,0,,28.85,5.75,Nights
+9/14/2020 23:25:20,Denver,Parker Adventist,0,,28.85,5.75,Nights
+9/14/2020 23:27:55,Denver ,,0,Float,29.72,11,"Nights, float, weekend "
+9/14/2020 23:43:01,,,,,,,
+9/15/2020 0:47:09,Denver,University of Colorado Hospital,2,Medsurg,27.81,5,Nights
+9/15/2020 2:05:52,Colorado springs,,,,,,
+9/15/2020 2:06:21,Colorado springs,,,,,,
+9/15/2020 2:55:44,Denver,Rose Medical Center,4.5,Float Pool (no critical care/ICU float) ,37.52,,
+9/15/2020 2:58:44,Broomfield ,,0,Med surg,29,4,Night
+9/15/2020 2:58:51,Broomfield ,,0,Med surg,29,4,Night
+9/15/2020 7:58:54,Denver,Swedish,9,Cvicu bicu nicu ticu ,42,,Critical care float pool
+9/16/2020 13:38:08,Colorado Springs,Penrose Hospital,3,Cardiac,30,2,"Nights ($2-4), weekends ($2)"
+9/17/2020 20:24:05,Denver,UC Health,2,OR,33,,
+9/18/2020 15:55:17,Denver,,8,Pacu,36,,Day
+9/19/2020 6:51:46,Denver,UC Health,2.5,ICU,31.12,5,"nights, 2.5 weekend"
+9/23/2020 23:06:45,,,,,,,
+10/9/2020 7:27:58,Westminster ,St. Anthonys North ,1,Cardiac/Med Surg,30,4.5,"Nights, Evenings, Weekends"
+10/9/2020 23:21:09,Denver,Childrens Hospital Colorado,0,Medical,30,4,Nights
+10/22/2020 18:38:54,Denver ,Children’s hospital of colorado ,5.5,General medicine ,36.15,3,Nights 
+10/25/2020 17:34:12,Louisville ,,15,ER,36,,
+10/25/2020 17:50:31,Loveland,Medical center of the rockies,2,Trauma/Sugrical PCU,33.08,5,Nights
+10/25/2020 18:02:56,Denver,,6,OR,32.03,,Days
+10/25/2020 18:09:01,Denver ,,6,Neuro,33.5,,
+10/25/2020 18:12:34,Boulder,,20,OR,43,2,Charge Nurse
+10/25/2020 18:14:06,Denver,,3,ICU float pool,37.5,,Days critical care
+10/25/2020 18:25:05,Colorado Springs,,7,CVICU,37,3.5,Night/weekend
+10/25/2020 18:47:55,Aurora,UCH,3,L&D,31.25,5,Nights
+10/25/2020 18:52:43,Aurora,University of Colorado Hospital,2,Oncology,30,,"Days, Outpatient, M-F 6:45-3:15"
+10/25/2020 18:56:42,Denver,,3.5,Pediatric ,33.7,4.75,Night 
+10/25/2020 19:13:42,Denver,,5,OR,42,2.5,Swing Shift
+10/25/2020 19:28:06,Rifle ,Grand river health ,20,Cardiac ,47,,None 
+10/25/2020 19:30:45,Englewood ,Swedish Medical Center HCA,1.5,Med-Surg / Telemetry,27.5,4,Days
+10/25/2020 19:31:02,Denver,Denver health,2,Med/surg float,30.24,6.3,"Float pool, certification pay, procap pay "
+10/25/2020 19:40:28,Denver,UCHEALTH Metro,5,Cardiac ICU,35,5,Nights
+10/25/2020 19:50:55,Littleton,,6,ASC,40,,
+10/25/2020 19:51:07,Littleton,,6,ASC,40,,
+10/25/2020 20:03:15,Denver,UCHealth Anschutz,0,Neuro,27,5,"Nights, holidays "
+10/25/2020 20:04:00,Steamboat Springs,Yampa Valley Medical Center,4,LDRP,32.2,6,"Nights, weekend"
+10/25/2020 20:35:08,Denver,Denver Health,0,Surgical Trauma,27.52,,
+10/25/2020 20:46:17,Denver ,University Colorado health ,7,ICU,31,5,Nights 
+10/25/2020 20:49:17,"Aurora, Colorado ",The Medical Center of Aurora ,1,Cardiac ,27,4,Nights 
+10/25/2020 21:10:48,Denver,Correctional Health Partners,6,Educator,41.4,,Days
+10/25/2020 21:21:18,Denver,,4,Postpartum ,35.94,5,Nights 
+10/25/2020 21:46:09,Thornton,North Suburban Medical Center,0.5,ICU,28.5,4,Night
+10/25/2020 21:47:56,Aurora,,0,NICU,31.16,4.75,Nights
+10/25/2020 22:46:20,Denver,Rose Medical Center,2.5,OR,27.5,,
+10/25/2020 23:03:24,Denver,Denver Health,6,ED,34.2,,Days
+10/25/2020 23:03:28,Boulder,Boulder Manor,3,LTC,27.5,2,Evening shift 
+10/25/2020 23:17:49,Aurora ,University of Colorado Hospital,3.5,Medical Surgical,31.2,5,$2.50 (7p-11p) $5 (11p-7a) $2.50 weekends 
+10/25/2020 23:18:01,Aurora ,University of Colorado Hospital,3.5,Medical Surgical,31.2,5,$2.50 (7p-11p) $5 (11p-7a) $2.50 weekends 
+10/25/2020 23:24:07,Denver ,Saint Joseph,6,ER,34,,
+10/25/2020 23:36:31,Castle rock ,,5,Icu,34.12,5.75,Nights
+10/25/2020 23:51:05,Lakewood ,St. Anthony’s ,1,,28.85,5,Nights 
+10/25/2020 23:54:06,Denver,,1,NICU ,28,4,Nights
+10/26/2020 0:08:33,Fort Collins ,Poudre valley hospital,0,Med surg/oncology,27,5,Nights
+10/26/2020 0:08:45,Fort Collins ,Poudre valley hospital,0,Med surg/oncology,27,5,Nights
+10/26/2020 1:11:44,Aurora,Children's hospital ,,PICU,47,,
+10/26/2020 2:08:24,Aurora,University of Colorado Hospital ,5,Med-Surg/Cardiac Unit,37,,
+10/26/2020 4:12:10,,,5,LTC,31,,Days
+10/26/2020 4:47:48,Colorado Springs,,3.5,Long term care/SNF,32,,
+10/26/2020 4:49:08,,,,,,,
+10/26/2020 10:43:44,Denver,Presbyterian st luke's ,2,Liver/kidney transplant,27.5,,Days
+10/26/2020 13:33:41,"Burlington, CO ",Kit Carson County Memorial ,0,Med Surg/ER,24,,Nights
+10/26/2020 16:39:32,Denver,,9,OR,39.64,4,OR
+10/26/2020 17:26:38,Denver,Medical center of aurora south campus,2,Orthopedics,27.5,,
+10/26/2020 17:50:47,,,,,,,
+10/27/2020 13:17:20,Eagle,,1,LPN Corrections,23,,
+10/27/2020 20:36:15,,,,,,,
+10/27/2020 20:39:39,Fort Collins ,,,,,,
+10/27/2020 20:40:05,,,,,,,
+10/27/2020 20:41:48,Fort Collins,Associates in famliy medicine,4,,24,2,
+10/27/2020 21:10:04,Greeley ,,1,ER,27.5,4,Nights
+10/27/2020 21:10:41,Greeley ,,1,ER,27.5,4,Nights
+10/27/2020 21:10:56,Greeley ,,1,ER,27.5,4,Nights
+10/27/2020 22:12:00,Loveland,McKee Medical Center,1,Med/surg/tele,28.96,2,Weekend
+10/27/2020 22:46:59,Fort Collins,PVH,1,,,,
+10/28/2020 8:31:43,Loveland,,,Pediatric Home Care,28,,
+10/28/2020 9:03:09,loveland,,0,,,,
+10/28/2020 9:03:27,loveland,,0,,,,
+10/28/2020 11:05:39,Denver,Presbyterian St. Luke’s Medical Center,0,Med Surg,27,4,Nights
+10/28/2020 13:13:46,Longmont,,1,Med/Surg,28.85,4.75,Nights
+10/30/2020 7:34:47,Denver ,University of Colorado Anschutz,1.5,,30,5,Night 
+10/31/2020 11:05:57,Denver ,Denver Health,0,,27.54,,
+10/31/2020 19:12:33,Denver ,Swedish medical center ,1,Med surg ,27,4,Nights 
+11/2/2020 15:08:44,,,,,,,
+11/13/2020 17:00:15,Englewood,Swedish Medical Center HCA,1.75,Med Surg Tele,27.5,4,Day
+11/14/2020 10:10:24,Lakewood,,0,ICU,28.85,5.25,Night
+11/18/2020 0:32:35,Pueblo,Home health,3,Case manager,,,Salary of 64k a year
+11/18/2020 11:22:25,"Lafayette, Colorado",Non hospital- work for an insurance company,5,"ED, Tele, Case Management, UR",37.5,,Mon-Fri 8-5
+11/18/2020 11:29:08,Boulder,Longmont United Hospital ,1,Medical-Surgical ,28.85,5.75,Nights
+11/18/2020 11:59:43,Denver,University of Colorado hospital ,2,Surgical specialties ,27,2.75,Nights
+11/18/2020 12:18:29,Colorado Springs,,14,ER,41,,Nights
+11/18/2020 12:19:01,Colorado Springs,,14,ER,41,,Nights
+11/18/2020 14:44:14,Denver,,3.5,Float Pool,41.5,4,Nights
+11/18/2020 19:26:54,,,,,,,
+11/18/2020 22:37:29,Colorado Springs ,Wellness Cinic,1,Clinical,38,,Weekdays 
+11/18/2020 22:38:41,Woodland Park,PPRH,30,,38.25,,Days
+11/18/2020 22:52:55,Pueblo,,2,Cardiac,27.03,3,
+11/19/2020 3:18:05,Denver ,,5,Icu,33,4,Night 
+11/19/2020 3:18:53,Denver ,,5,Icu,33,4,Night 
+11/20/2020 0:29:55,Holyoke,Regent park ,7,SNF,37.13,0.5,long term 
+11/21/2020 18:08:32,Denver,,10,Peds,39.87,4,Nights
+11/21/2020 18:08:46,Denver,,10,Peds,39.87,4,Nights
+11/21/2020 18:09:46,,,,,,,
+11/26/2020 3:54:36,Englewood,Swedish Medical Center,5,Trauma ICU,36.5,4,Nights
+11/28/2020 16:25:09,Greeley ,NCMC ,4.5,Pediatrics ,32.75,4,Nights 
+11/28/2020 16:25:15,Greeley ,NCMC ,4.5,Pediatrics ,32.75,4,Nights 
+11/28/2020 16:25:28,Greeley ,NCMC ,4.5,Pediatrics ,32.75,4,Nights 
+12/11/2020 12:43:54,Grand Junction ,,3,Hospice ,36,10,Nights in patient care center
+12/11/2020 12:47:40,Grand junction ,,3,Hospice ,,10,
+12/29/2020 3:34:05,Denver,Uchealth ,1,Medical surgical,,,
+1/9/2021 1:12:49,,,,,,,
+1/10/2021 23:38:12,,,,,,,
+1/10/2021 23:38:18,,,,,,,
+1/10/2021 23:38:28,,,,,,,
+1/10/2021 23:42:00,Denver ,Colorado Children’s ,2,,33,5,"Nights, weekends "
+1/10/2021 23:44:25,Denver,,0,Med Surg,27,,Day
+1/10/2021 23:48:39,Denver ,Swedish Medical Center,1.5,L&D,29.18,4,Nights
+1/11/2021 0:03:16,Denver ,Denver Health ,2,ACS,29.5,,
+1/11/2021 0:03:37,Denver ,Denver Health ,2,ACS,29.5,,
+1/11/2021 0:07:08,Denver ,,1,,27,,
+1/11/2021 0:11:26,Colorado Springs ,UCHEALTH ,1,OB ,31,,
+1/11/2021 0:12:01,Colorado Springs ,UCHEALTH ,1,OB ,31,,
+1/11/2021 0:25:35,Thornton,,2,Rehab,28,2,
+1/11/2021 0:43:58,Littleton,Littleton Adventist Hospital ,6,Cardiac and Stroke,32.71,5.75,Nights
+1/11/2021 1:13:59,Colorado Springs ,,1,Medical surgical ,28.85,,
+1/11/2021 3:59:34,,,,,,,
+1/11/2021 7:00:41,Fort Collins,UCHealth ,10,Oncology certified ,37.12,2,
+1/11/2021 8:18:40,Denver,Centura,3,GI,32,,Days
+1/11/2021 9:09:23,Lakewood,Saint Anthony’s hospital,9,ER,37.5,,Na
+1/11/2021 14:26:03,Thornton,,3,Rehab,37.5,,
+1/11/2021 18:59:10,Denver,,1,,35,,
+1/11/2021 21:56:26,Denver,HealthOne,2,OR,31,,Day
+1/13/2021 23:46:30,Denver,UCHealth,6.5,Cardiology,39,5,nights
+1/16/2021 23:00:33,Denver,,5,,30,,
+1/16/2021 23:00:45,Denver,,5,,30,,
+1/17/2021 18:35:43,Aurora,,5,Neuro,35,5,Critical care rotating day night
+1/26/2021 23:19:26,Lakewood,St Anthony's Hospital,9,ER,37.5,,
+1/30/2021 20:45:31,Aurora,UC Health Anchutz,5,Geriatrics ,38.11,2.5,Evenings
+2/2/2021 14:52:51,,,,,,,
+2/7/2021 15:40:59,,,,,,,
+2/23/2021 10:09:30,Lakewood,St. Anthony's,2,ER,30.9,5.5,Nights
+3/14/2021 23:00:57,Colorado Springs,,0,L&D,29,,
+4/22/2021 23:17:20,"Lone Tree, CO",,0,Med Surg,28.5,4,Night
+6/6/2021 11:20:30,Englewood,,35,Operating room,43,,"8-10 hrs day, surgery center"
+6/6/2021 11:58:49,Aurora ,,7.5,Ped’s OR,42,,Days 
+6/6/2021 12:00:27,Denver,,7.5,ICU,37,,
+7/9/2021 23:48:09,Lone Tree,,9,PACU charge nurse,40.54,,
+8/10/2021 21:55:05,Colorado Springs ,UCHealth Memorial Central,2,Med Surg,31.17,,
+8/11/2021 1:07:45,Denver,,0,Mental Health,33.65,,"(Salaried (70k), M-F, 8-5)"
+9/4/2021 10:54:54,Denver,Regis University,18,"Advanced research, EBP, Foundations, Leadership",38,,Flexible with classes taught
+9/24/2021 18:14:47,Denver,St Joseph Hospital,1,ICU,30.7,4.75,Nights
+10/23/2021 17:32:19,Aurora,,1,Infusion Clinic,33.43,,Days
+10/26/2021 13:03:49,Denver,,1,General Surgical,31.5,5.75,Nights
+11/8/2021 14:04:31,Aurora,University of Colorado Hospital,8.5,Med Surg,44.7,2.5,Night/weekend
+12/4/2021 19:21:19,Castle Rock,Castle Rock Adventist Hospital,1,Med Surg,31,5.75,Nights
+12/9/2021 20:53:00,Aurora,UCH ANschutz,4,Med Surg,38.76,,Day
+12/15/2021 22:02:37,Aurora ,Medical Center of Aurora,0,PCU,29.5,5.5,Night
+12/17/2021 1:10:37,Boulder ,Boulder Community ,0,Med-Surg,29.09,8,Night 
+1/3/2022 22:41:32,Denver,,10,OR,44.9,,"Day ($2.00 diff clinical ladder, $2.69 critical staffing incentive)"
+1/20/2022 18:20:55,Aurora,UCHealth ,12,L&D,41.02,,
+2/22/2022 17:10:17,Denver,Denver health ,0.5,Mes surg,28,,
+2/22/2022 17:10:27,Denver,Denver health ,0.5,Mes surg,28,,
+2/22/2022 17:11:57,Denver,Denver health ,0.5,Med surg,28,,Days
+3/5/2022 20:43:24,Boulder,RMCC,6,Outpatient Oncology Infusion,37,,"Days, 40hrs"
+3/14/2022 1:39:10,Aurora,UChealth,9,ER,47.47,5,Nights/charge
+3/18/2022 13:11:46,,,,,,,
+3/18/2022 13:28:15,Wray,,14,Hospice,34,,
+3/18/2022 13:29:56,Grand Junction,St. Marys,1,OB,30.28,4,Nights
+3/18/2022 13:46:17,Lone Tree,,5,PACU,41,,
+3/18/2022 13:51:59,Vail,,3,Icu,37,,
+3/18/2022 14:05:04,Lafayette ,,7,Hospice ,36.7,,8 hour (day shift)
+3/18/2022 14:42:55,Denver,,0,Neuro ICU,29,,
+3/18/2022 14:43:46,Rifle,,3,Er,35,4,
+3/18/2022 15:02:56,Louisville ,Boulder Medical Center,10,Pediatrics ,29,,Days
+3/18/2022 15:06:48,Louisville ,Boulder Medical Center,10,Peds,30.6,,Days
+3/18/2022 15:08:31,Denver,Rose ,1,ICU,31.1,,
+3/18/2022 15:16:33,Kremmling,School district nurse,8,,37,,48k/year salary 
+3/18/2022 15:27:24,Loveland,,10,Trauma ,47.88,2,Days
+3/18/2022 15:30:05,Denver,St Joseph Hospital ,9,PACU,38,,
+3/18/2022 15:36:21,Aspen,Sameday Health ,1.5,Clinic (Holistic Wellness),50,,"Days, 10-12 hrs "
+3/18/2022 16:06:57,Denver,,4,Gi,37,,
+3/18/2022 16:26:35,Ft Collins,UC Medical Center of the Rockies,11,Trauma/Surgical,40.16,,
+3/18/2022 17:00:47,Aspen,,8,ICU,45.87,6,Nights
+3/18/2022 17:36:40,Denver,,4.5,OR,43.5,,Day shift
+3/18/2022 17:52:38,Fort Collins ,Poudre Valley Hospital ,10.5,PACU,40,,
+3/18/2022 18:09:02,Brighton ,Platte valley ,3,ER,35,,4-nights 
+3/18/2022 18:30:28,Colorado Springs ,,3,Cardiac,29,4,PRN
+3/18/2022 18:41:09,Denver,Centura Health,4,Psych,35.28,3.75,Nights
+3/18/2022 19:25:13,Denver,Rocky Mountain hospital for children at Presbyterian st lukes,14,NICU,42,4.5,Night
+3/18/2022 21:30:29,Westminster ,,7,Medical surgical ,43,5,Nights
+3/18/2022 21:53:55,Grand Junction,,1,Cardiac,30,,
+3/18/2022 21:58:15,Denver,Denver Health,3,Psych ,38.5,,Charge position. They offered me $35 i negotiated for 38.50.
+3/18/2022 22:31:53,Grand Junction,,,,30.95,,
+3/19/2022 5:48:15,,,,,,,
+3/19/2022 7:19:19,"Littleton, CO",,0.5,Oncology,32.15,,Day
+3/19/2022 7:49:49,Leadville,,5,Ic,45,,
+3/19/2022 10:36:38,Denver ,University of Colorado Hospital ,10,Care Manager ,47.5,,Remote 
+3/19/2022 10:37:12,Denver ,University of Colorado Hospital ,10,Care Manager ,47.5,,Remote 
+3/19/2022 11:04:50,,,9,ER,33,2,"Charge RN, CEN"
+3/19/2022 12:04:19,Aurora,UC Health Anschutz ,1,Neuro ICU,35.77,5,Nights
+3/19/2022 19:32:26,Westminster ,,3,Medsurg ,31.35,,
+3/19/2022 21:44:45,Aurora ,,3,Dialysis ,37.88,,
+3/19/2022 23:47:17,Littleton,Littleton Adventist Hospital,6,L&D,39.96,,
+3/20/2022 6:37:43,Denver,DH,5,ICU,35.1,11.76,"Nights, critical care, weekend"
+3/20/2022 18:04:14,Denver,,9,Cardiac,52,,
+3/20/2022 18:04:39,,,,,,,
+3/20/2022 18:05:30,Denver,,9,Cardiac,42,,
+3/20/2022 18:05:42,Denver,,9,Cardiac,42,,
+3/23/2022 22:51:34,Denver,,3,,37.25,,
+3/23/2022 22:53:38,Denver,,3,,37.25,,
+3/24/2022 0:08:31,Aurora,,6,Pediatric Oncology/Hematology/BMT,40,,"Days, clinical nurse III, certified"
+3/26/2022 20:13:43,Windsor ,,7,OR,43,,
+3/26/2022 20:24:53,Denver,,3,Med Surg,35.65,,
+3/26/2022 20:36:41,Thornton,,1,ICU,29.5,,
+3/26/2022 22:35:34,Aurora ,,3,Dialysis ,37.8,,Daya
+3/26/2022 22:41:51,Denver,,4,Geriatric Clinic,46,,N/A this is a clinic - no nights and no weekends
+3/26/2022 23:07:43,Denver,SCL Health,15,ER float pool,44,20,"Float, PRN, weekends "
+3/26/2022 23:23:51,Colorado Springs,,0.2,Hospice,38,,
+3/27/2022 3:02:50,Denver,Denver Health ,4,PCU,35,,
+3/27/2022 5:39:32,Denver,Denver Health,9,Neonatal ICU,40.03,,
+3/27/2022 10:49:26,Denver,Rocky Mountain Hospital for Children,4,Peds ICU/CVICU,33,5,Nights
+3/27/2022 11:13:23,,,0,Aesthetics,33,,
+3/27/2022 11:29:00,Denver,Presbyterian St. Lukes ,13,OR,43.25,,Days
+3/27/2022 12:16:32,Denver,Porter,3,Gen Surg,34.37,4.73,PRN Days
+3/27/2022 20:07:49,Aurora,,8,Heme/BMT,46.09,,Weekdays
+3/28/2022 10:01:13,Lone tree,Sky Ridge Medical Center,9.5,PCU,36.6,8.5,Weekend contract
+3/29/2022 18:26:29,Denver,,2,Rehab,31.5,,
+3/29/2022 22:54:18,Denver,PSL,15,Oncology,46,,
+3/30/2022 5:52:18,"Aurora, Colorado",Children's Hospital Colorado,2.5,Hematology/oncologyBMT,34.29,4.75,Nights
+3/31/2022 17:41:56,Colorado Springs ,Encompass Rehab,5,Rehab,55,,Days
+4/8/2022 21:40:45,Grand Junction,St Marys,3,Cardiac (step down),32,,Day
+4/8/2022 21:44:01,Denver,,4,Peds,35.23,,
+4/8/2022 23:13:04,Grand Junction,Mess County Public Health,8,,30.5,,
+4/8/2022 23:27:25,Lafayette ,,9,Peds,30.6,,Outpatient clinic
+4/9/2022 11:02:50,Denver,Centura ,4,GI,37,,
+4/9/2022 11:57:50,,Uchealth ,0,OR,29,,
+4/9/2022 15:30:46,Denver,,8,ER,36,,
+4/9/2022 17:37:10,Denver,,1,Pediatrics ,31,5.5,Nights 
+4/9/2022 19:11:15,Denver ,The Center for Cosmetic Surgery ,7,Pre-op/PACU/OR/Scrub,44.8,,
+4/9/2022 23:05:35,Arvada,University of Colorado hospital ,3,L&D,35.8,2.5,Day
+4/9/2022 23:40:57,Colorado Springs,,0,L&D,31.49,5.75,nights
+4/10/2022 17:52:04,Denver,,0.5,Operating Room,40,3,PRN
+4/10/2022 17:54:05,Denver,Parker Adventist,1,Ortho/Neuro,31,4.35,PRN
+4/10/2022 23:10:08,Denver,,13,Acute dialysis ,47,6,"Charge nurse, evenings, weekends"
+4/14/2022 0:43:03,Thornton,North suburban,20,ER ,40,,Day
+4/14/2022 2:43:04,Arvada,,7,Rehabilitation ,36,2,Nights
+4/16/2022 17:35:55,Wheat Ridge,SCL,0,Step down,32.9,4.5,Nights 
+4/19/2022 18:03:30,Aurora,ROcky mountain region VAMC,10,Med surg,44,,Night
+4/21/2022 0:24:36,Aspen ,Aspen valley hospital ,6,ER,39,3,Weekends 
+4/21/2022 0:25:35,Long branch ,Monmouth Medical Center,6,ER,40,3,Evenings 
+4/26/2022 1:12:28,Aurora ,University of Colorado Hospital,2,ICU,37,5,Nights
+5/6/2022 9:47:31,Denver,VA Medical Center,0,ICU,40,4,"4-nights, 10-wknd days, 14 wknd nights"
+5/6/2022 15:21:42,Colorado Springs,Children’s Hospital Colorado,1,NICU,36.2,5,Night
+5/25/2022 3:06:03,Fort Collins ,,9,L &D,35.13,4,Nights 
+6/8/2022 11:46:43,Denver,Centura,4,GI,37,,
+6/13/2022 1:29:04,Denver,,4.5,Oncology,40,5.5,Nights
+6/13/2022 19:30:40,Denver,Denver Health,4,PACU,35.27,,"$4.65 night, $2.45 evenings, $2.20 weekends, 14% for critical care, extra shifts 1.5x +$20/hour (for when there are a lot of open shifts)"
+6/16/2022 19:21:41,Colorado ,,12,L&D,41.02,,
+6/20/2022 16:08:08,Boulder,,5,Psych,45,,none
+6/23/2022 10:00:43,Denver,St Joseph Hospital,5,Med/surg surgical,36.8,,
+6/24/2022 12:55:21,Denver,Lutheran Medical Center,0,Telemetry ,32.03,2.25,Weekend 
+7/5/2022 17:07:07,Greeley,UCHealth,0,Med surg,29,5,Nights 
+7/17/2022 12:11:44,Denver,,0,L&D,30,5.5,Nights
+8/10/2022 19:32:08,Colorado Springs ,Memorial Hospital Central,1,ER,18.5,,Day
+8/10/2022 19:32:22,Colorado Springs ,Memorial Hospital Central,1,ER,18.5,,Day
+8/21/2022 17:17:23,Steamboat Springs ,Private clinic,1.5,FNP,35,,Plus 35% of what I bill
+8/26/2022 14:52:51,Denver,,4.5,BMT,43.53,5.5,Nights
+9/11/2022 5:32:36,Denver,,4,Float,34.25,,night
+9/20/2022 2:57:32,Denver,UCH,3,BMT,35.8,2.5,Night 
+10/4/2022 9:21:10,Alamosa ,SLVH ,2,ER,31.5,,
+10/4/2022 19:31:09,Colorado Springs,,25,Home health private duty ,31,,
+10/21/2022 17:12:51,Denver,,2,Neuro,34,5,Nights
+10/26/2022 10:41:47,Denver,,3,Cardiac,34,,
+10/26/2022 10:43:18,Denver,,3,Cardiac,34,,
+11/15/2022 12:20:57,Eagle,,1,Corrections,24,,
+11/17/2022 22:58:13,Durango ,,,,,,
+11/19/2022 14:30:20,Colorado Springs,Saint Francis,12,PACU/ICU,44.51,7.93,"CCRN, PRN"
+12/1/2022 21:49:57,Denver,Remote,6,Pediatrics,40,,
+12/1/2022 21:50:12,Denver ,,38,Geriatrics ,43,,Days
+12/1/2022 22:31:36,Littleton ,,3,Med Surg,36,,Days
+12/1/2022 22:58:40,"Louisville, CO",TRU Hospice,6,Hospice,43.5,,
+12/1/2022 23:03:15,Colorado Springs,,9,Med/Surg ,48.81,2,
+12/1/2022 23:09:20,Parker,Sky Ridge South Parker ER,1,ER,36,,
+12/1/2022 23:22:02,Denver,,13,OR,45.8,4.65,Nights
+12/2/2022 0:42:54,San Diego,,4,OR,60,,Day
+12/2/2022 14:05:43,Denve,,5,Cardiac Cath Lab,41.65,,Days and Call
+12/2/2022 21:19:21,Fort Collins ,Lemay Avenue Health and Rehab,3.5,Geriatrics/Rehab,40,4,NOC 
+12/2/2022 22:31:03,Aurora,,1.5,Addiction Treatment,35.11,2.5,Days/Mids
+12/3/2022 16:14:45,Denver,,1,Psych,36.8,4.5,Nights
+12/4/2022 15:40:02,,,13,Med surg ,40,5,Nights 
+12/19/2022 19:12:57,Denver ,,4,Internal travel team,85,,Nights
+12/19/2022 19:29:03,,,,,,,
+12/19/2022 19:50:19,Colorado Springs ,,0,PICU,30,5,Nights 
+12/19/2022 20:11:45,Louisville,,8,NICU,42,,Days
+12/19/2022 20:31:55,Greeley,NCMC,1,Pcu,32,,
+12/19/2022 20:56:40,Parker,,1.5,OR,32.5,,
+12/19/2022 21:01:32,Denver,Uchealth ,0,ER,31,,

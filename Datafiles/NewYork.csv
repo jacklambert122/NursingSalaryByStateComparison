@@ -1,0 +1,774 @@
+Timestamp,City ,Hospital Name/Campus,Years of Experience,"Specialty (Cardiac, ER, GI, L&D, etc)",Hourly Base Pay (Diff not included),Shift Diff Amount (if any) ,"Type Of Shift Diff (nights, Baylor, Critical Care, Etc) ","Type Of Shift Diff (nights, Baylor, Critical Care, Etc) ",Hospital Name/ Campus (Optional)
+11/26/2019 12:01:50,Middletown,Orange Regional Medical Center,4,Float,42.33,2.75,Night,Float,
+11/26/2019 12:10:27,Canandaigua,U of R,10,,30.47,,Weekend Contract,,
+11/26/2019 12:28:27,New York City,NYP Hospital ,5,ER,48,2,Night,,
+11/26/2019 12:34:24,Rochester,Rochester General Hospital,0,Med-Surg,27,2,Nights ,,
+11/26/2019 12:39:14,NYC - Manhattan ,Mount Sinai West (so part of the Mount Sinai Health System),2,Medical Surgical,47.462,2.7692,Night Shift,,
+11/26/2019 12:44:00,Manhasset,North shore university hospital,1,Medsurg,49,,Nights,,
+11/26/2019 12:50:19,"New York, NY",NYU Langone Health,5,PACU,51,,,,
+11/26/2019 13:22:54,Glens Falls,Glens Falls Hospital,0.5,Cardiac,24,20,Nights,,
+11/26/2019 13:59:52,Valhalla,Westchester Medical Center ,5,NICU,47,7000,Nights,,
+11/26/2019 14:40:00,Binghamton,Wilson Medical Center,3,Med/surg,27,3,days,nights,
+11/26/2019 15:10:32,Brooklyn ,Mckinney NYCHHC,10,LTC,43,,,,
+11/26/2019 15:10:38,Stony Brook,Stony Brook University Hospital,1,Med-surg ,35,,,,
+11/26/2019 15:12:21,New York City,Mount Sinai,3,NICU,47,138,Nights,Weekend,
+11/26/2019 15:20:19,Roslyn,St Francis hospital,3,Orthopedic telemetry,46.27,,Days,,
+11/26/2019 15:48:33,Santa cruz,,3,ER ,64,5,Day,12,
+11/26/2019 16:37:38,New York City ,,1,Cardiac ,49.19,3.08,Nights,,
+11/26/2019 16:45:42,Port jefferson,Mather hospital,1.5,Telemetry,44,2,Nights,Nights,
+11/26/2019 17:45:38,Stony brook ,Stony brook children’s hospital ,1,Pedatrics ,34.61,2.61,Unknown ,Nights ,
+11/26/2019 18:21:44,Schenectady,Ellis Hospital,2.5,ICU,27.79,5,Nights ,,
+11/26/2019 18:23:40,Mount Kisco ,Caremount ,2,Endoscopy ,40,,,,
+11/26/2019 18:42:38,Manhattan,New York Presbyterian/ Weill Cornell,1,PACU,50.68,53.68,Nights,,
+11/26/2019 19:03:32,Carmel,Putnam Hospital,1,Med surg,36,4.5,Nights,Weekends (0.50),
+11/26/2019 20:25:48,Albany,St. Peter’s hospital (trinity health),10,L&D,36,11,Weekend Nights ,,
+11/26/2019 20:51:44,New York,NYP Allen Hospital,2,Critical Care,50,,,,
+11/26/2019 20:55:22,New York city,NYU langone (Manhattan),1,Medical step down ,49,2,Nights - 5.5k more a year ,,
+11/26/2019 21:07:42,Penn Yan,Finger Lakes Health,7,ER ,31.18,5,Nights,Nights,
+11/26/2019 21:15:12,Rochester,,9,NICU,35,,Nights,,
+11/26/2019 22:04:55,Southampton,Stony Brook Southampton Hospital,1,Tele,41.66,2.2,Evenings and nights,Evenings and nights,
+11/26/2019 23:28:20,stony brook,stony brook medicine,9,outpatient chemo,41,,,,
+11/26/2019 23:49:54,Utica,Mvhs,10,Pediatrics,47,5,Nights,Nights,
+11/27/2019 0:08:02,"Binghamton, NY",Our Lady of Lourdes Memorial Hospital ,6,Emergency Dept. ,34.24,5,Evening (3-11) 15% and nights (11-7) 20% more ,,
+11/27/2019 4:40:51,Valhalla ,Westchester Medical Center,4,Orthopedics/Medsurg ,44.86,,,,
+11/27/2019 7:03:23,New York City,NYU Langone Health,3,Dermatology,48.9,,,,
+11/27/2019 8:08:11,Saratoga ,Saratoga Hospital ,0,Med/Surg,26,4,Nights,,
+11/27/2019 8:28:41,New York ,,1,,33,,,,
+11/27/2019 9:53:33,"New York, NY",Mount Sinai,1,Oncology,49,,Day,,
+11/27/2019 10:07:18,New York,Bellevue ,0,ER,42,3,Nights,,
+11/27/2019 11:13:48,New York City,Mount Sinai Hospital (Main Campus),1,PICU,47.9179,2.99,Night shift,"Plus 0.6648 (BSN), 0.3068 (1 yr experience)",
+11/27/2019 11:41:11,Saratoga,Saratoga Hospital,6,Er ,32.5,3,Evening/weekends,,
+11/27/2019 11:48:02,Buffalo,ECMC,6,ICU,34,3,Nights,,
+11/27/2019 12:02:25,Ithaca,Cayuga medical center ,0,Telemetry ,30,,,,
+11/27/2019 13:50:25,New York,New York Presbyterian Hospital/Cornell,15,Radiology ,59.94,,My pay includes a small differential for having a certification and my BSN.,,
+11/27/2019 15:20:35,New york,Nyu langone ,5,Pacu,52.65,,,Days,
+11/27/2019 15:44:02,New York,,1,L&D,46.5,1.4,Nights,,
+11/27/2019 18:42:04,Suffolk County ,Private practice ,10,Outpatient/ office setting ,45,,,,
+11/27/2019 18:50:47,Kitchener ,Grand river hospital ,2,ER,45,,,,
+11/27/2019 19:30:11,New York,Memorial Sloan Kettering Cancer Center,2,Med Surge,49,,"Night, Weekends",,
+11/27/2019 21:13:02,Newark,Newark-Wayne community Hospital ,5,ICU,29.5,1.5,Nights,Weekends,
+11/27/2019 23:36:59,New York,New York Presbyterian Weill Cornell,10,ICU,57.88,,,,
+11/28/2019 5:09:08,Manhasset,North shore university hospital ,2,Cardiac,45,1.79,Nights,"Experience diff and degree diff. BSN $0.75, man add’l $0.75",
+11/28/2019 7:35:32,Rochester ,Rochester General Hospital ,2,Cardiac Surgery Stepdown ,26,1.5,Nights ,,
+11/28/2019 13:03:33,Valhalla (Westchester County),,0,Oncology,44.7,3.4,Nights ,,Westchester Medical Center
+11/29/2019 0:50:09,New York City,,,Day Surgery- per diem,60,,,,NYU Langone Health Tisch Campus
+11/29/2019 5:07:15,New hyde park,,0,Med surg,45.72,2.76,Nights,,
+11/29/2019 7:48:26,,,,,,,,,
+11/29/2019 8:52:12,Bronx,,0,Tele Med Surg,47,,Day,,Bronx care
+11/29/2019 8:55:26,Syracuse,,0,Medsurg,25.88,2.58,Nights 10% Weekends 25%,,
+11/29/2019 10:22:21,"Roslyn, NY",,2,MedSurg/Telemetry,41.5,,Days,,"St. Francis Hospital, The Heart Center"
+11/29/2019 10:34:30,Yonkers ,,0,,34,,,,
+11/29/2019 11:01:52,Syracuse ,,4,Cardiac,32.81,,"$1 BSN, $0.75 certification",,
+11/29/2019 20:58:01,Nyc,,4,PACU ,52,,Days ,,
+11/29/2019 21:03:53,New Rochelle,,5,Dialysis ,36.99,,Day,,
+11/29/2019 21:14:47,Nyc,,4,PACU ,52,,Days ,,
+11/29/2019 21:28:12,Elmira,,1,ICU,28,,Day,,AOMC
+11/29/2019 21:28:16,Elmira,,1,ICU,28,,Day,,AOMC
+11/29/2019 22:13:33,Queens,,1,Rehab,30,,,,
+11/30/2019 5:36:19,Buffalo,,4.5,Hospice,32,6,2 for oncall. 5 for evening. 6 for overnight. 2 for weekend. ,,
+11/30/2019 5:37:06,Buffalo,,4,Med Surg,37,3,Nights,,
+11/30/2019 6:45:43,New York ,,3,Hospice ,50,,Day,,
+11/30/2019 8:01:01,Rochester ,,2,MI/pcu,26.35,2,Weekend overnights. I’m an lpn I work weekend contract otherwise my base would be $17.75,,University of Rochester 
+11/30/2019 10:40:14,New york city,,1,L&d,48.13,3.08,Night shift,,Maimonides medical center
+11/30/2019 18:09:33,Jamestown,,3,ER,26.34,1,NIGHTS,,Upmc Chautauqua 
+12/1/2019 10:46:04,N Y,,0,Student BSN,0,1,0,,
+12/1/2019 17:00:42,Staten Island ,,10,Case manager ,50,,,,
+12/2/2019 21:06:15,Staten Island,,1,ICU,44.81,4.24,"Nights $4.24, evening $3.23. Bachelors $1.75. ",,Northwell Health SIUH
+12/3/2019 9:29:33,"Rochester, NY",,5,GI,29.7,2,"Evening, nights, weekend",,Strong Memorial Hospital
+12/4/2019 8:26:11,NYC,,1,PED,40,3,Nights,,HHC
+12/5/2019 14:25:38,Syracuse,,1,Peds,22.95,,,,
+12/6/2019 16:10:09,Westchester ,,1,Psych ,48.1,0.6,Day/evening ,,New York Presbyterian Westchester Division 
+12/6/2019 18:54:56,New York City,,7,SICU,51,3,Nights,,NYP Cornell
+12/11/2019 8:32:02,New York City,,3,Icu ,47,,,,Mount Sinai
+12/11/2019 9:08:28,Stony Brook,,2,L&D,37,,,,Stony Brook Medicine
+12/25/2019 3:28:14,Salalah,,10,ER,,,Shifting,,Salalah hospital
+12/28/2019 23:09:56,Rochester,,8,ICU,39,,Management ,,URMC
+12/31/2019 17:39:38,White Plains,,3,Step-down,45.38,,Days,,
+1/17/2020 10:18:26,Troy,,4.5,Med/surg ,31.5,4,Nights,,
+1/17/2020 10:43:45,New York,,0,Oncology,49,4.53,Days,,MSK
+1/17/2020 10:44:04,New York,,0,Oncology,49,4.53,Days,,MSK
+1/17/2020 12:04:19,Rochester,,10,HomeCare,35,150,Oncall nights,,Home Care/Community Health
+1/17/2020 12:26:17,Islip,,0,,37.42,,Days,,
+1/17/2020 12:40:53,Manhasset,,4,Cardiac surgery,47.3,3.7,Day shift cardiac surgery step down ,,NSUH
+1/17/2020 14:21:16,Nyack,,2,Med-surg,38.78,2.5,Nights,,Montefiorw nyack
+1/17/2020 14:30:43,New York,,8,Home Care ,45,,Day,,
+1/17/2020 14:38:09,Bronx,,2,Step down,46,,Day,,Bronxcare
+1/17/2020 14:39:20,Long Island,,2,Cardiac,36,,,,
+1/17/2020 14:52:24,,,,,,,,,
+1/17/2020 15:20:28,Brooklyn ,,0,OB,,,,,
+1/17/2020 15:21:27,Syracuse ,,12,ED,37.8,,$3 for evenings / $5 for nights ,,St. Joseph’s 
+1/17/2020 15:26:37,West Islip,,4,ER,42,,days,,Good Samaritan Hospital
+1/17/2020 16:08:08,Staten Island,,2,Psych,45,,,,RUMC
+1/17/2020 16:19:49,Bronx,,1,Emergency room ,45,,,,Jacobi
+1/17/2020 16:21:55,Syracuse,,1.5,,29.8,,,,St. Joseph’s Hospital
+1/17/2020 17:05:27,Rochester,,0,LPN MICU,17.5,,,,URMC
+1/17/2020 17:23:22,New York,,0,Med surg ,48.05,2.88,Nights,,NYU Langone- Tisch 
+1/17/2020 19:09:15,Buffalo,,3,Maternal Child,33,3,Nights,,Mercy Hospital of Buffalo 
+1/17/2020 20:21:17,New York City,,6,Oncology ER,57,5.7,Weekend,,Memorial Sloan Kettering
+1/17/2020 21:32:58,Nyc,,,Med surg,45,10,Night,,
+1/17/2020 22:03:13,Staten Island,,3,Med/Surg,45.29,2.82,Nights,,
+1/18/2020 7:35:55,Yonkers ,,0,Er,40,3,Cc,,
+1/18/2020 8:43:49,Albany ,,4,Surgical,31.55,4,Nights,,Albany Medical Center
+1/18/2020 8:57:19,White Plains ,,1,Oncology ,44,6600,Nights,,Westchester Medical Center
+1/18/2020 9:44:38,Rochester,,6,ER,35.7,2,"Evenings, nights, triage and charge shift differential ",,Urmc
+1/18/2020 12:32:30,Syracuse ,,11,,39,5,Nights,,
+1/18/2020 13:31:09,White Plains ,,0,Med surge ,43.79,47.79,Nights,,
+1/18/2020 15:00:18,Brooklyn,,6,MDS,48,,,,
+1/18/2020 15:58:22,Glens falls ,,10,Specialty but cant name it ,25,,Day ,,
+1/18/2020 23:59:34,Long Island,,0,Med surg,42.6,,Days,,
+1/19/2020 20:55:31,,,7,Peds ,36.66,,,,
+1/22/2020 21:54:40,peekskill,,10,med/surg,47,,day,,
+1/23/2020 15:56:44,11758,,1,Oncology ,41,,,,Mercy Medical Center
+1/23/2020 16:30:19,New York,,1,Aesthetics,40,,n/a,,Skin Laundry
+1/24/2020 11:07:19,Ithaca,,0,Telemetry ,30,,,,Cayuga Medical Center
+1/24/2020 11:14:47,New York,,1,,50,3,Nights,,New York Presbyterian Columbia University 
+1/24/2020 12:04:38,Manhasset,,1,Cardiac,48.79,2.5,Night,,
+1/24/2020 15:38:11,Jamestown,,1,ICU,22.5,0.5,Nights,,UPMC Chautauqua
+1/25/2020 5:48:49,Brooklyn ,,0,Pacu,46,,Day,,Surgicare of Brooklyn 
+1/25/2020 5:50:03,,,,,,,,,
+1/25/2020 9:32:22,Buffalo,,7,Mother Baby,40.63,1.8,Nights,,Sisters Hospital
+1/25/2020 10:28:24,,,21,,37.08,7,Nights,,
+1/26/2020 0:56:34,New York,,3,PICU ,50,,Days ,,
+1/28/2020 13:45:24,Albany,,1.5,Medsurf ,27.54,,,,Albany Medical Center
+1/29/2020 23:30:40,,,,,,,,,
+1/29/2020 23:30:50,,,,,,,,,
+1/30/2020 9:58:12,Queens,,2,ICF,34,,,,SCO Family is services 
+1/30/2020 13:18:29,Johnson City ,,3,Med Surg,30.74,,Days ,,UHS Wilson
+1/30/2020 18:35:44,Glen Cove,,2,Med-surg,47,3,,,Glen Cove Hospital
+1/30/2020 18:35:47,Glen Cove,,2,Med-surg,47,3,,,Glen Cove Hospital
+1/31/2020 14:18:00,Albany,,1,ICU,30,4,Evenings/Nights,,
+1/31/2020 21:39:04,New York City,,13,PACU,66,6,Swing ,,Memorial Sloan Kettering Cancer 
+2/2/2020 14:30:19,Lowville ,,2,Med-Surg ,31.48,1.98,,,
+2/2/2020 20:50:31,Rochester,,2,Psychiatry,28,,"Eves, nights, weekend, charge",,Rochester regional health
+2/2/2020 22:20:11,New york,,3.5,"Med surg, Geriatric ",50,,Days 12 hour ,,New york Presbyterian/ allen
+2/3/2020 2:16:10,NYC,,0,Med Surg,45,3,Night,,
+2/3/2020 7:50:36,Binghamton,,,L&D,28.6,5.72,,,
+2/10/2020 1:52:30,,,,,,,,,
+2/10/2020 1:53:13,,,,,,,,,
+2/18/2020 10:46:01,nyc,,2,adult day care HIV ,45,,,,
+2/18/2020 10:48:51,New Hyde Park,,3.5,ICU,49.1,,,,
+2/18/2020 11:03:43,Binghamton ,,1,Surgical step down ,30.72,4.15,Nights ,,Wilson medical center 
+2/18/2020 11:19:49,Binghamton ,,5,,33.75,,,,
+2/18/2020 11:23:39,New york city,,4,Pediatric cardiology,51,,"Outpatient, full time 37 hrs per week",,New york presbyterian - columbia university medical center
+2/18/2020 11:49:30,New Rochelle ,,5,Dialysis,37,2,10hrs ,,New York dialysis
+2/18/2020 14:21:36,Albany,,2,Pp/l&d,30.98,4,Nights ,,
+2/18/2020 15:28:26,Mount Kisco ,,9,OR,57.25,2.82,Night,,
+2/18/2020 15:29:00,,,,,,,,,
+2/18/2020 15:29:26,,,,,,,,,
+2/18/2020 15:29:43,,,,,,,,,
+2/18/2020 22:00:56,Brooklyn,,1,Medical-surgical,46,3.5,Nights ,,Wyckoff Heights Medical Center
+2/19/2020 10:18:45,Flushing,,4,L&D,48.2,2.82,Nights,,
+2/19/2020 12:08:39,Syracuse,,1,Medsurge ,28.8,3,"Evening, ($4 for night shift)",,
+2/19/2020 12:09:08,Syracuse,,1,Medsurge ,28.8,3,"Evening, ($4 for night shift)",,
+2/19/2020 14:15:44,Buffalo,,10,PACU ,41.66,,,,Roswell Park Comprehensive Cancer Center
+2/19/2020 18:43:05,New york,,10,Orthopedics,56.1,5,Nights,,
+2/19/2020 20:14:31,Syracuse ,,5,CVICU-NICU,32,5,Nights ,,
+2/19/2020 22:27:48,,,,,,,,,
+2/20/2020 15:39:43,"Albany, new york",,7,Trauma/SICU,35,4,Nights,,Amc 
+2/20/2020 15:59:18,,,,,,,,,
+2/21/2020 15:38:45,Brooklyn ,,1,School nurse ,35,,,,
+2/23/2020 10:21:01,Albany,,1,Med surg,29.9,4,Nights ,,St.Peter’s
+2/24/2020 19:52:53,Albany,,0,OR,29.6,,Days,,St Peters
+2/24/2020 22:53:23,New York ,,3,NICU,52.69,,None,,Lenox Hill
+2/24/2020 22:56:49,,,,,,,,,
+2/24/2020 23:42:38,New York,,11,OB,58.44,3.077,Night,,NYP
+2/24/2020 23:53:48,"Queens, NY",,,Med Surg,44,,,,
+2/24/2020 23:55:39,Vestal,,7,Lpn,19.49,0.87,"Evening shift,  night shift,  and 50 cents/ hour on weekends",,Willow point nursing and rehabilitation 
+2/24/2020 23:56:33,Rochester,,4,Med surg flex team,31.56,2,Nights,,Strong Memorial Hospital 
+2/24/2020 23:59:36,"Queens, NY",,0.8,Med-Surg,44,,7a-7p day flex,,
+2/25/2020 4:30:18,New york,,12,Cticu,56,3,Night,,Nyp
+2/25/2020 5:25:12,Roslyn,,1,Med/surg,41,,,,St. Francis Hospital
+2/25/2020 5:59:32,Buffalo,,28,Pediatrics,45,,,,
+2/25/2020 7:54:33,New York,,9,PICU,61.52,3.08,Nights ,,New York - Presbyterian
+2/25/2020 7:55:41,Albany,,7,Icu,32,,,,
+2/25/2020 8:56:12,New York,,2,Medsurg tele,47.31,4.54,"Nights, BSN, experience diff",,Mt. Sinai
+2/25/2020 9:02:58,Albany ,,1,Oncology,28.5,4,4/nights 11/weekends,,
+2/25/2020 9:13:26,NYC,,6,ER,46,,,,
+2/25/2020 9:14:52,Suffern,,0.5,Float,41.75,2,Float,,
+2/25/2020 9:29:46,Albany ,,2.5,Family practice ,27.6,,Days 8-4,,
+2/25/2020 11:00:43,Rome,,6,L&D ,33.5,1.5,“Critical care” pay for labor patients ,,
+2/25/2020 13:36:12,New York,,1.5,Neuro SDU,51.8,3,Night,,New York Presbyterian Weill Cornell
+2/25/2020 14:03:23,New York,,9,PICU,5,6,Experience + BSN + CCRN,,
+2/25/2020 15:02:55,West islip,,2,Med surg ,41,4,,,
+2/25/2020 15:40:55,NYC,,1,L&D,50.02,2.96,Night,,Mount Sinai
+2/25/2020 17:26:00,Stony Brook,,0,NICU,28,2,Nights,,
+3/31/2020 20:16:21,White Plains,,9,ED,50.7,3,Critical care shift differential ,,
+3/31/2020 20:25:58,Long Island ,,3,OR,42,44,Days/eve,,
+3/31/2020 20:52:28,Flushing ,,1,Med-surg ,46.02,,,,NYPQ
+3/31/2020 21:00:45,Brooklyn ,,1,Pediatric ,36,,,,School nurse 
+3/31/2020 21:19:24,Manhattan,,12,,53,,Nights,,
+3/31/2020 22:17:59,New York City,,9,L&D,55,3.5,Nights,,New York Prebyterian
+4/1/2020 0:14:20,New York,,3,ER,54,,12 hr day shifts,,NewYork-Presbyterian Morgan Stanley Children’s Hospital
+4/1/2020 4:35:27,West isip,,14,Amb Surg,48,,8 hour days,,
+4/1/2020 6:08:58,Middletown ,,3,Cardiac telemetry,42.65,2.45,Evening.  starts at 3pm,,
+4/1/2020 7:18:31,Rochester,,0.75,Vascular surgery,27.5,1.25,Nights,,Rochester General Hospital
+4/1/2020 7:29:13,New York ,,5,Critical Care ,60,,Days,,Mount Sinai
+4/1/2020 8:07:06,Port jefferson,,1,Cardiac ,42,,,,
+4/1/2020 9:45:31,Valhalla ,,1,Oncology ,44.5,6600,Nights,,Westchester Medical Center
+4/1/2020 9:45:50,Valhalla ,,1,Oncology ,44.5,6600,Nights,,Westchester Medical Center
+4/1/2020 12:55:51,New York City,,3,Oncology,51,,"Day, Outpatient",,Weill Cornell Hospital
+4/1/2020 13:04:37,,,,,,,,,
+4/1/2020 13:04:50,,,,,,,,,
+4/1/2020 13:05:26,,,,,,,,,
+4/1/2020 20:11:09,,,,,,,,,
+4/1/2020 20:11:52,valley stream,,0,NA,,,NA,,NA
+4/1/2020 20:13:22,,,,,,,,,
+4/1/2020 20:14:41,,,,,,,,,
+4/1/2020 20:17:15,Albany,,1,Dialysis ,28,1,Night,,Fresenius Kidney Care
+4/1/2020 21:33:14,Queens ,,7,OR,52,,Days ,,
+4/2/2020 6:46:53,New York ,,3,Med surg crisis rate on covid units,100,25,Nights,,
+4/2/2020 13:50:23,New York City ,,0,Telemetry ,49.67,3.08,Nights ,,Lenox hill hospital 
+4/2/2020 13:50:33,New York City ,,0,Telemetry ,49.67,3.08,Nights ,,Lenox hill hospital 
+4/6/2020 1:37:14,,,,,,,,,
+4/7/2020 19:49:08,Long Island,,22,MDS,41,,,,
+4/8/2020 23:38:44,Huntington,,0.5,Med Surg,46.51,3.52,Nights,,Huntington Hospital
+4/12/2020 15:17:38,,,,,,,,,
+4/12/2020 15:17:46,,,,,,,,,
+4/12/2020 15:18:39,,,,,,,,,
+4/12/2020 15:18:53,,,,,,,,,
+4/18/2020 2:18:15,New York City,,7,Oncology ,63,,Days,,New York Presbyterian Weill Cornell
+4/26/2020 19:09:33,Middletown,,5,Float,43.33,1.75,Nights,,ORMC
+4/26/2020 19:13:38,Brooklyn ,,3,Er,45,,Days,,NYP- Brooklyn Methodist 
+4/26/2020 19:18:34,New York,,1.5,Mother Baby,53.5,,,,NYU Langone
+4/26/2020 19:22:15,New York ,,5,Oncology ,54.51,,,,
+4/26/2020 19:31:32,Valhalla ,,22,NICU and PACU ,58.82,,OT gets time and a half. Madandated gets 2x,,
+4/26/2020 19:38:54,Rochester,,3,"Med surg, PCU. ",30,4.5,Nights ,,
+4/26/2020 20:14:37,Westchester county ,,5,Peds ,33,,,,
+4/26/2020 20:20:59,Rochester ,,6,NICU,30.5,1.2,"Nights, weekends",,Urmc
+4/26/2020 20:41:39,Manhattan,,0,Psych/Community ,38.5,,M-F 7-3 DAY ,,
+4/26/2020 21:24:08,Brooklyn ,,1,Med-surg,42.68,,Nights,,Brookdale 
+4/26/2020 21:32:55,Queens,,5,Icu,50.36,2.8,Nights,,
+4/26/2020 22:08:16,New York,,4,Transplant,53.69,2.8,,,
+4/26/2020 23:03:55,NYC ,,1.5,Ccu,47.5,3,Nights,,
+4/26/2020 23:05:38,"Rochester, NY",,3,Oncology ,29,,"Days only, no weekends ",,
+4/26/2020 23:14:16,Bronx,,1.5,,81165,1,1,,City Hospital
+4/26/2020 23:43:32,Bronx ,,3,Peritoneal Dialysis Home Therapies Nurse ,41,3,Night,,
+4/27/2020 8:53:01,Port Jefferson ,,1,Mer-surg/telemetry,42,,Day,,
+4/27/2020 9:03:46,Welland,,7,ER,34,,Days and nights,,
+4/27/2020 9:04:10,Welland,,7,ER,34,,Days and nights,,
+4/27/2020 18:58:31,,,,,,,,,
+4/27/2020 18:59:08,,,,,,,,,
+4/30/2020 23:03:55,Flushing,,1,med-surg,45.7,,,,New York Presbyterian Queens
+5/3/2020 1:11:14,New york,,4,Neuro,42,,Days,,
+5/3/2020 17:01:55,Rochester,,1,Advanced heart failure/LVAD/transplant ,26.5,1.75,"Nights, weekends",,Strong Memorial Hospital 
+5/4/2020 22:20:12,New york,,,,50,,,,Mount sinai
+5/7/2020 22:25:22,,,,,,,,,
+5/7/2020 22:26:18,,,,,,,,,
+5/7/2020 22:26:31,,,,,,,,,
+5/9/2020 13:11:58,New Hyde Park,,4,ICU,50,,days,,
+5/12/2020 0:58:17,stony brook,,2,oncology,35,,,,stony brook
+5/13/2020 23:59:27,New York City ,,7,Pacu,55.77,,Day,,New York Presbyterian weill Cornell medical center
+5/14/2020 0:03:06,,,,,,,,,
+5/14/2020 0:05:02,Buffalo,,4.5,NICU,37.9,3.55,Night shift,,John R. O'Shei Children's Hospital
+5/14/2020 0:08:10,Buffalo,,3,Geri,22,0.01,2,,Assisted living LPN
+5/14/2020 0:09:38,Buffalo,,3,Psych,24,2,Nights,,Ecmc
+5/14/2020 0:12:16,White Plains,,9,SURGICAL,50.7,2,,,
+5/14/2020 0:38:34,NYC,,6,ER,52,,Days,,Mount Sinai 
+5/14/2020 0:46:26,Yonkers,,0,ER,40,43,Mids CC,,
+5/14/2020 0:51:26,Westchester ,,4,CARDIAC OPEN HEART OR,98000,50000,Call,,
+5/14/2020 1:12:22,Westchester,,17,ER,67,6,4.5,,
+5/14/2020 4:05:46,Rochester,,3,Psych,28.5,,Eves weekend nights,,
+5/14/2020 4:16:38,"Albany, NY",,7,ICU,35,4,,,
+5/14/2020 4:23:17,,,,,,,,,
+5/14/2020 5:12:05,Port Jefferson,,1,Med Surge ,42,44,Evening ,,
+5/14/2020 5:42:44,New York ,,6,OR nurse manager,63.38,,,,Lenox Hill Hospital 
+5/14/2020 5:52:21,Rochester,,2,ICu,28.7,3,Nights ,,Unity Hospital 
+5/14/2020 6:07:36,New York,,1,ED,50,3,Nights ,,Columbia New York Presbyterian
+5/14/2020 6:10:59,New York,,2.5,Med Surg Tele,65.4,,Per Diem,,
+5/14/2020 6:53:55,Nyc,,2,,53,4,Nights,,
+5/14/2020 7:00:27,Mount Kisco,,40,Infusion oncology,49,,,,CareMount medical
+5/14/2020 8:17:56,,,,,,,,,
+5/14/2020 8:39:52,Bronx,,10,General Pediatrics,47,10,Nights,,Montefiore 
+5/14/2020 9:49:26,New York City,,1,Telemetry,48.3,2,Night,,Long Island Jewish Medical Center
+5/14/2020 12:16:00,Batavia,,0,Medical Surgical,26.5,,,,United Memorial Medical Center
+5/14/2020 15:35:08,Rochester ,,2.5,Surgical Oncology - weekend contract,34.88,2,Nights ,,Strong Memorial Hospital 
+5/14/2020 17:22:52,New York ,,3,Operating Room ,52,,,,NYU Langone
+5/14/2020 21:49:32,Troy NY,,0,ICU ,29.68,5,Nights ,,Samaratin 
+5/14/2020 22:12:21,Saranac Lake,,5,ICU and ER,32.56,2,Night,,Adirondack Health
+5/14/2020 22:55:04,Syracyse,,1,ICU,31,5,Night,,
+5/16/2020 21:40:00,Albany,,1,Dialysis ,28,1.25,Nights ,,Fresenius 
+5/16/2020 21:40:48,Albany,,1,Dialysis ,28,1.25,Nights ,,Fresenius 
+5/16/2020 21:41:12,Albany,,1,Dialysis ,28,1.25,Nights ,,Fresenius 
+5/18/2020 20:23:50,New York ,,3,Float,50,3, Day,,NYP Weill cornell
+5/18/2020 21:50:56,,,,,,,,,
+5/18/2020 22:50:53,Syracuse ,,5,,32,470,Nights ,,Upstate University Hospital 
+5/19/2020 19:47:15,New York City,,2,HIV,45,,,,ADHC (HIV)
+5/22/2020 7:53:26,Warwick ,,2,Med Surge,34.95,,Day,,SACH
+5/23/2020 17:15:37,New York city,,9,L&D,59,3,Nights,,Weill Cornell
+5/23/2020 17:20:57,,,2,,41.25,,,,
+5/23/2020 19:35:10,Queens,,5,Icu,50,1,Nights ,,
+5/23/2020 23:38:25,New York ,,5,OR,53.27,,Day,,
+5/23/2020 23:57:34,Queens,,9,Geriatric ,45,,Day shift,,
+5/24/2020 15:07:22,Rochester,,1.5,Primary care clinic/FQHC,26.5,,,,
+5/24/2020 21:06:52,New York,,3,Med-Surg,53,3.07,,,
+5/24/2020 23:07:37,Rockville Centre ,,3,Er,42,4,Day,,Mercy
+5/24/2020 23:07:58,Rockville Centre ,,3,Er,42,4,Day,,Mercy
+5/24/2020 23:08:09,Rockville Centre ,,3,Er,42,4,Day,,Mercy
+5/25/2020 0:34:31,Rochester,,9,L&D,30.5,2,Weekends,,
+5/25/2020 10:47:15,Glen Oaks,,2,Psych,48,,12 hr Day Shift,,Zucker Hillside Hospital
+5/28/2020 21:48:03,,,,,,,,,
+6/5/2020 4:58:05,Long Island,,8,ICU,54.58,3.07,Nights ,,
+6/5/2020 4:59:10,,,,,,,,,
+6/5/2020 7:31:49,Nyack,,0,Physician office,38.46,,Day,,
+6/19/2020 16:47:54,Port jefferson,,2,Tele,44,2,Nights,,Mather hospital 
+6/19/2020 20:49:30,New York City,,4,Acute Rehabilitation,49.12,0.96,Evening,,NYU Langone Orthopedic Hospital
+6/25/2020 14:38:53,New York,,16,ICU,60,3.5,"CCRN, MSN, Holistic nursing ",,
+6/27/2020 16:35:17,New York City,,5,Ambulatory Surgery,50,2,Evening Diff,,New York Eye And Ear Infirmary of Mount Sinai
+6/27/2020 20:44:00,Rochester ,,4,Icu,30,1.5,Cert  pay per hour ,,Highland 
+6/27/2020 20:57:29,Buffalo,,0,CVICU,32.67,,Critical care nights,,
+6/29/2020 1:16:03,New York city,,2,Cardiac tele ,50,3,Nights,,Lenox hill
+7/4/2020 4:05:54,Brooklyn ,,3,Peritoneal Dialysis ,42,,,,Davita Kidney Carea
+7/4/2020 4:09:45,Long Island ,,2,Med-Surg/Renal/Soft Tele Unit,47,50,Nights,,Northwell 
+7/4/2020 4:14:10,Long Island ,,0,Psychiatric,41,45,Eve/nights,,Northwell Affiliate 
+7/8/2020 18:20:10,Albany,,6,Rapid Response/Critical Care,33.9,,,,Albany Medical Center
+7/8/2020 20:29:54,Niagara Falls ,,2,ER,32.61,1.4,Nights ,,Niagara Falls memorial hospital 
+7/8/2020 20:42:18,Huntington,,1,Hematology Oncology outpatient,42,,,,
+7/8/2020 20:54:16,White Plains,,5,ICU stepdown,53,,,,
+7/8/2020 20:55:40,New York City,,2,Neonatal ICU,53.1,3,Nights,,New York Presbyterian Weill Cornell
+7/8/2020 21:15:57,NY,,1,L&D,46,,,,
+7/9/2020 11:01:59,West Islip,,0,Rehab,37.08,1.22,3-11pm,,
+7/8/2020 23:32:57,Nyc ,,5,Telemetry ,48,,Day ,,Mount Sinai west hospital 
+7/9/2020 2:26:34,Albany,,1,Surgical ,29,4,7,,
+7/9/2020 2:49:20,"Syracuse, ny",,7,Ortho,36.01,3,"Eves, nights, weekends",,St. Joseph’s 
+7/9/2020 4:46:57,Rochester,,1.5,Med-surge / general medicine,28.25,1.25,Nights ,,Highland Hospital
+7/9/2020 7:28:53,Utica ,,1,Family practice,25,,,,
+7/9/2020 7:47:23,Manhasset. ,,3,ED,49,,,,NSUH
+7/9/2020 15:52:22,Albany,,6,Rapid Response/Critical Care,33.9,,,,Albany Medical Center
+7/9/2020 16:24:52,Rochester,,2,Med Surg,28.7,,,,
+7/9/2020 21:01:00,,,9,,,,,,
+7/9/2020 21:55:59,"Albany, NY",,4,Med/Surg,50,8,Nights,,
+7/10/2020 20:13:12,New York City,,4,Dermatology/Phototherapy,53.96,,Days M-Fri,,NYU Langone Health
+7/18/2020 16:44:52,NYC,,32,EP,66,,nNIGHT,,NYU LANGONE
+7/23/2020 16:47:06,Albany ,,23,Operating room ,44.34,,Days salaried ,,
+7/30/2020 22:51:42,Livingston manor ,,3,PACU,42.68,2,Evening ,,
+7/31/2020 13:46:56,Newark,,1,Med/surg,27.9,1.5,,,Newark Wayne community Hospital
+8/2/2020 21:32:35,West Islip,,1,ICU,42,4,Nights,,
+8/22/2020 9:24:43,Buffalo,,12,Oncology ,40,,Days M-F,,
+9/2/2020 20:38:55,,,,,,,,,
+9/8/2020 11:05:44,Potsdam,,2,Med Surg,35.51,,,,
+9/14/2020 18:03:16,Syracuse ,,0,Med surg ,28.8,,,,
+9/14/2020 18:08:40,Batavia,,0.5,Tele/medical,26.5,,,,United Memorial Medical Center
+9/14/2020 18:33:48,Peekskill,,8,OR,43.73,,,,NYP
+9/14/2020 18:37:02,Bronx,,1,Allergy & Asthma Nurse,34,,Day,,
+9/14/2020 18:45:42,Queens,,1.5,LPN Geriatrics,27,,Evening ,,
+9/14/2020 18:49:09,Saratoga springs,,6,ICU,29.8,10,Evening,,Saratoga Hospital
+9/14/2020 18:56:36,Mount Kisco,,13,Critical Care,53,2,Eves,,
+9/14/2020 19:13:33,,,,,,,,,
+9/14/2020 19:47:39,Nanuet,,1,Float Pool,41.75,2.5,Float,,Good Samaritan Hospital
+9/14/2020 19:48:35,,,,,,,cc,,
+9/14/2020 19:48:43,,,,,,,cc,,
+9/14/2020 20:09:24,New hyde Park,,7,PACU,49.75,52.95,Days,,
+9/14/2020 20:10:34,New hyde Park,,7,PACU,49.75,52.95,Day,,
+9/14/2020 21:57:10,Rochester ,,11,Primary Care- LPN,19,,Days,,URMC
+9/14/2020 21:57:26,,,,,,,,,
+9/14/2020 22:10:26,Rockville centre ,,2,Telemetry,43,3,Nights,,Mercy Medical Center
+9/14/2020 22:26:13,New York ,,4,Cardiology ,58,,,,New York Presbyterian 
+9/14/2020 22:34:36,Saranac lake,,0,,17.97,1.25,Evening ,,
+9/14/2020 22:49:15,Rochester ,,3,Med surge ,29.75,,"Day,night, evenings ",,Strong hospital 
+9/14/2020 23:16:27,,,,,,,,,
+9/14/2020 23:41:39,Brooklyn,,1,Float,48,5.25,"Night, float",,
+9/15/2020 0:11:48,Monroe ,,2,Pediatric a ,26,,Days ,,
+9/15/2020 1:23:04,New york,,4,,52,3,night,,nyp
+9/15/2020 1:31:59,Batavia,,0,Med Surg,26.5,,Day,,United Memorial Medical Center
+9/15/2020 2:50:00,Valhalla,,3,NICU,45.54,3.35,Nights,,WMC
+9/15/2020 2:50:22,Valhalla,,3,NICU,45.54,3.35,Nights,,WMC
+9/15/2020 5:02:15,,,,,,,,,
+9/15/2020 6:35:18,Canandaigua,,6,Education,25,,,,FLCC
+9/15/2020 7:28:44,Queens,,1.6,cardiac,45,2,Night,,Long Island Jewish Medical Center
+9/15/2020 10:04:30,New York City,,2,,51,,,,
+9/15/2020 10:35:04,Rochester,,0,Oncology,27.5,1.5,"Nights, weekends",,Strong
+9/15/2020 10:36:01,Brooklyn ,,0,,37,,8hr day,,
+9/15/2020 13:33:10,Roslyn,,8,Med-Surg,51,,Days,,
+9/15/2020 13:44:34,New York City,,0,Med/surg,51,3,Nights,,
+9/15/2020 16:28:54,Nassau county (Long Island),,9,Assistant manager,54,3.33,Nights,,
+9/15/2020 19:38:35,Brooklyn,,,,,,,,
+9/16/2020 8:02:26,New York City,,4,Pediatric Cardiac ICU,50,2.88,Night,,
+9/16/2020 9:06:50,New Hyde park,,0,Med surg ,47.39,2.63,Nights ,,Long Island jewish medical center 
+9/16/2020 9:07:34,,,,,,,,,
+9/16/2020 9:46:37,Stony Brook,,7,,,,,,Stony Brook
+9/16/2020 13:26:12,New york,,0,Oncology ,49,,Days,,Mount Sinai 
+9/16/2020 13:26:28,New york,,0,Oncology ,49,,Days,,Mount Sinai 
+9/16/2020 18:16:04,New York City,,0,L&D,45.6,4.78,"Nights, BSN",,Jacobi
+9/16/2020 21:15:47,,,,,,,,,
+9/17/2020 5:35:17,New York City ,,3,Step down,54.5,5.4,10% nights and weekends,,
+9/17/2020 17:12:46,Brooklyn ,,12,Behavior health,50.25,4,Day,,Nyu
+9/19/2020 0:20:02,,,,,,,,,
+9/19/2020 0:20:09,,,,,,,,,
+9/19/2020 9:46:22,Nyc,,4,homecare,24,,,,Whiteglove nursing agency 
+9/19/2020 18:21:47,Rochester ,,3,Med surg,28.85,2,"Nights, weekend ",,URMC
+10/3/2020 16:24:22,Flushing,,0,Geriatric,27,1,evening,,
+10/14/2020 0:49:09,,,,,,,,,
+10/14/2020 0:49:21,,,,,,,,,
+10/25/2020 17:30:36,Rochester ,,8,Outpatient manager ,39,,,,Rgh
+10/25/2020 17:30:45,Rochester ,,8,Outpatient manager ,39,,,,Rgh
+10/25/2020 17:38:09,Stony Brook,,12,ER,42.5,,"None, I work days ",,
+10/25/2020 17:47:59,"New York, NY",,1.5,OR,48,,,,Mount Sinai Morningside 
+10/25/2020 17:48:18,"New York, NY",,1.5,OR,48,,,,Mount Sinai Morningside 
+10/25/2020 18:00:23,NYC,,5,"Neurology, Neurosurgery, Stroke, Medical/Surgical",55,,"Days Flex, Neurosurgery Stepdown",,"CUIMC, NYP "
+10/25/2020 18:10:39,Manhattan,,0,Dialysis,38,,,,Davita
+10/25/2020 18:11:49,Bay shore ,,0,Telemetry ,46.65,3.2,Nights ,,South Shore University
+10/25/2020 18:14:16,West Islip,,10,ICU,55,,,,Good Samaritan Hospital
+10/25/2020 18:21:29,Westchester,,14,Critical Care,52,3,Mid shift,,
+10/25/2020 18:22:53,New York,,1,ER,49,2,Nights,,NYULMH
+10/25/2020 18:23:12,Westchester,,13,Critical Care,52,3,Mid ,,
+10/25/2020 18:29:44,Albany,,9.5,Home health,36.05,,,,
+10/25/2020 18:49:05,Poughkeepsie ,,1,Med Surg,36.35,2,"Night, weekends",,Midhudson  Regional 
+10/25/2020 19:06:48,Rochester ,,6,Pediatric ,,0.0000001,"None- salaried at 68,000",,Strong Memorial Hospital
+10/25/2020 19:14:00,Rochester ,,7,ER,36,2,Nights core charge triage ,,URMC 
+10/25/2020 19:18:23,New York,,3,Dermatology,39.65,,,,Outpatient dermatology/skin surgery/laser center
+10/25/2020 19:19:54,NYC ,,4,CVICU,50,3,Days,,
+10/25/2020 19:20:08,,,,,,,,,
+10/25/2020 19:20:16,,,,,,,,,
+10/25/2020 19:23:14,New York City,,5,Oncology,54.87,,"We are salaried- $107,000 yearly. Hourly rate I calculated ",,
+10/25/2020 19:29:03,New Windsor,,2,Infusion (home health) ,38,,Day,,
+10/25/2020 19:51:58,Centereach ,,8,Geriatric ,42,,8hr day,,
+10/25/2020 19:59:11,WestChester ,,1,Peds,41,,Days,,
+10/25/2020 20:08:23,NYC,,4,Cardiac Operating Room ,50,75,Call pay,,
+10/25/2020 20:22:41,,,,,,,,,
+10/25/2020 20:23:42,Albany,,1,Pediatrics,25,,Days,,Albany Medical Center
+10/25/2020 20:30:45,NYC,,3,ER,50,2,Nights ,,Mount Sinai
+10/25/2020 20:30:50,NYC,,3,ER,50,2,Nights ,,Mount Sinai
+10/25/2020 20:31:50,Nyc ,,3,ER,50,2,Nights,,Mount Sinai 
+10/25/2020 20:50:26,New York,,3,Operating Room,62,2.8,Evenings 12pm-8pm,,NYU Langone Medical Center / Tisch Hospital
+10/25/2020 21:07:59,New Hyde Park,,2,Telemetry,48,3,Nights ,,Northwell Health
+10/25/2020 21:21:14,Yonkers,,0,Behavioral health - etoh benzo and opiate detox and rehab,43.64,,Dayshift,,St johns riverside hospital
+10/25/2020 21:21:35,Brooklyn,,1,Med-surge,95589,6000,Nights,,Maimonides Medical Center 
+10/25/2020 21:23:11,Staten Island,,2,Geriatrics ,26,,2nd shift 3-11,,Sunrise Senior Living
+10/25/2020 21:31:38,New York City,,2,NICU,51,3,Nights,,New York Presbyterian Weill Cornell
+10/25/2020 21:37:42,Brooklyn,,1,Medsurge,49.02,9.08,Nights & charge,,Maimonides medical center 
+10/25/2020 21:43:44,"Canandaigua, NY",,2,ICU,27.75,,,,Ff Thompson
+10/25/2020 22:02:24,New York City,,2,Surgical ICU,50,,Days,,
+10/25/2020 22:10:29,New York,,4,Acute Neuro Rehab,50.6,0.96,Day shift 7a-730p,,NYU Langone Hospital
+10/25/2020 22:16:21,New York City,,4,Operating Room,59,,,,
+10/25/2020 22:22:52,NYC,,0,Oncology,47.66,3,Nights,,
+10/25/2020 22:50:05,Roslyn,,2,Med-surg/tele,56,4,,,Saint Francis 
+10/25/2020 23:35:04,New york,,20,MICU,62,,Days critical care,,
+10/25/2020 23:37:30,Brooklyn ,,10,L&D,46,2,Nights,,
+10/25/2020 23:55:54,Rochester,,1,Med Surg,27,1.5,Nights ,,Unity Hospital
+10/26/2020 0:59:12,New York ,,4,Icu ,55,10,Nights ,,Memorial Sloan Kettering 
+10/26/2020 1:27:18,,,,,,,,,
+10/26/2020 1:43:59,Southern westchester,,0,ER,40,43,Mid shift,,
+10/26/2020 2:16:51,Queens,,1,Critical Care,47,,Nights,,Northwell Health
+10/26/2020 2:44:08,New York,,2,ER,16.2,,Nights + $0.50,,New York Central
+10/26/2020 3:19:45,Brooklyn,,3,L&d,49,4,Nights,,Maimonides medical center
+10/26/2020 6:38:39,,,,,,,,,
+10/26/2020 6:40:14,New York City,,2,L&D,44,3,Nights,,New York Presbyterian 
+10/26/2020 8:31:59,NYC ,,1,ER,50,2,Nights,,Lenox Hill
+10/26/2020 8:36:08,Mineola,,8,ICU,51.5,1.79,Evenings,,NYU Winthrop Hospital
+10/26/2020 8:36:28,Mineola,,8,ICU,51.5,1.79,Evenings,,NYU Winthrop Hospital
+10/26/2020 9:12:49,Buffalo,,0,,34.66,,,,
+10/26/2020 9:13:06,Buffalo,,0,,34.66,,,,
+10/26/2020 9:32:22,Albany,,1,L&D,27,4,Nights,,Albany Medical Center
+10/26/2020 9:50:41,Poughkeepsie ,,1,MedSurg/Oncology,36.8,4,Nights,,
+10/26/2020 12:56:34,New York ,,0,N/A,0,1,0,,N/A
+10/26/2020 12:58:03,"Warwick, Ny",,3,ICU 2years,37,,Nights ,,
+10/26/2020 13:26:26,Bronx New York,,3,NICU,47.6,5,"Experience, nights, bsn",,Montefiore Wieler 
+10/26/2020 13:43:04,Bronx,,4,Informatics,,,125k/yr. I am salaried. ,,NYC Health and Hospitals Corp/Central Office
+10/26/2020 14:31:39,Troy ,,5,Ned surg/tele,33,3,Evening (3p-11p),,Samaritan Hospital 
+10/26/2020 16:04:04,Brooklyn ,,5,NICU,51.65,290,Evening ,,New York Presbyterian Brooklyn Methodist 
+10/26/2020 20:21:04,Albany NY,,11,Case Management management ,45,,,,
+10/26/2020 22:53:20,,,,,,,,,
+10/26/2020 22:53:29,,,,,,,,,
+10/27/2020 20:12:17,New York,,1.5,Med/surg,51.65,5.17,Nights,,Memorial Sloan Kettering Cancer Center
+10/27/2020 20:46:55,"Harris, NY",,2,ICU ,37,3.5,Night shift diff $3.50/hr BSN $3.00/hr,,
+10/27/2020 22:33:58,Fresh Meadows,,1,Dialysis home therapy,44,,,,Fresenius
+10/31/2020 13:38:34,SYRACUSE,,22,Med surg/oncology,80,88,Night,,VAMC Syracuse
+10/31/2020 19:53:24,New York,,12,Etc,55,,,,
+10/31/2020 21:39:05,Queens,,3,NICU,48.87,1.53,Nights,,Northwell Health
+10/31/2020 22:35:00,New york ,,5,Cardiac ICU,55,3,Days,,NYP Morgan Stanley Children's Hospital
+10/31/2020 23:19:02,East Northport,,5,PACU/SICU/NCCU,45,,Days,,Stony brook
+11/11/2020 9:38:46,Orange County,,3,MedSurg,48,,Nights,,
+11/11/2020 9:38:48,Orange County,,3,MedSurg,48,,Nights,,
+11/11/2020 9:39:09,Orange County,,3,MedSurg,48,,Nights,,
+11/18/2020 11:00:37,New York City ,,8,Home care,51,,Per diem 57-70$ per visit ,,
+11/18/2020 11:39:24,Troy ,,1,ICU,29.67,3,Weekday after 1500,,Samaritan 
+11/18/2020 11:55:13,Riverhead,,10,Homehealth,54,,,,
+11/18/2020 11:55:51,Riverhead,,10,Homehealth,54,,,,
+11/18/2020 12:02:10,Tarrytown,,3,Peds,26,,Dr office,,BCHP
+11/18/2020 12:03:02,,,,,,,,,
+11/18/2020 12:03:14,,,,,,,,,
+11/18/2020 12:03:21,,,,,,,,,
+11/18/2020 12:03:32,,,,,,,,,
+11/18/2020 14:25:11,Stony Brook,,5,Radiology,42,,8 hr days,,Stony Brook ambulatory office
+11/18/2020 14:58:37,Nyc,,2,Ed,55,4,Nights,,
+11/18/2020 16:48:05,Queens,,2,Clinic internal medicine ,36,,,,
+11/18/2020 19:13:44,Bronx,,5,ER,44,,Days,,St Barnabas Hospital
+11/18/2020 19:53:27,"Rochester, NY",,11,ortho ,37.5,1,"cert pay, i work straight days, but we do have shift diff and PIN points for the weekend",,Highland Hospital 
+11/18/2020 20:51:55,Syracuse,,13,ICU CDI Specialist,27.22,,Days M-F,,Upstate University Hospital
+11/18/2020 22:40:16,NYC,,1,PICU,49,3,Nights,,New York Presbyterian Columbia campus 
+11/19/2020 4:59:44,Elmira,,14,Oncology ,33.74,,Days,,
+11/19/2020 6:44:01,New York City ,,0,ICU,46,5800,Nights,,Bronx-Lebanon 
+11/20/2020 21:12:56,Bronx,,2,Allergy Immunology/Asthma,34,,Day,,"ENT & Allergy Associates, LLP"
+11/21/2020 23:13:01,Nyc,,1,ER,49,3,Nights and bsn,,Lenox hill
+11/22/2020 12:39:14,"90,000",,1,Emergency room,,,,,
+11/29/2020 1:10:02,Troy,,6,LDRP,33.5,,,,Samaritan Hospital
+12/2/2020 3:19:42,,,0,Cardiac Step Down,47,2.5,Nights ,,
+12/2/2020 19:27:58,Long Island,,1,,42,,,,
+12/2/2020 19:28:22,Long Island,,1,,42,,,,
+12/3/2020 20:26:08,Brooklyn,,1,Med/Surg,47.97,3,Nights,,NYU Langone
+12/3/2020 20:26:23,Brooklyn,,1,Med/Surg,47.97,3,Nights,,NYU Langone
+12/3/2020 20:27:11,Brooklyn,,1,Med/Surg,47.97,3,Nights,,NYU Langone
+12/8/2020 0:13:22,Brooklyn,,4,OR,49,,Daya,,Northwell
+12/15/2020 17:17:33,Port Jefferson ,,2.5,Stepdown Tele,46,,"Nights, day vs evening. ",,Mather Hospital 
+12/17/2020 1:21:59,NYC,,0,L&D,49,,,,
+12/22/2020 20:40:59,Long Island,,12,L&D,48,,,,
+12/26/2020 22:17:15,New York,,5,Psych,60,,,,
+12/30/2020 20:38:06,New York City,,2,Mother/Baby,53,,Nights ,,
+1/9/2021 11:27:03,Rhinebeck,,20,Med/ surg/telemetry,49.5,4,Night shift,,
+1/10/2021 23:38:39,Harris ,,2,PACU ,39.86,5,"Evening, BSN",,
+1/10/2021 23:41:07,Nyack,,25,MDS,45,,,,SNF
+1/10/2021 23:42:40,Roslyn,,2,Med-Surg ,51,4,Nights ,,Saint Francis
+1/10/2021 23:43:14,Roslyn,,2,Med-Surg ,51,4,Nights ,,Saint Francis
+1/10/2021 23:44:04,New York city,,1,Picu,47,2,Nights,,
+1/10/2021 23:47:53,Nyc,,4,HD & IR,44,,Days,,
+1/10/2021 23:48:28,Nyc,,4,HD & IR,44,,Days,,
+1/10/2021 23:55:49,New York ,,0,New grad ,55,,Day shift ,,NYC H&H Hospitals 
+1/11/2021 0:05:55,Long Island,,2,Endo,43,10,CAP,,
+1/11/2021 0:29:32,"Rochester, NY",,4,Pediatrics,32.05,,Days ,,University of Rochester
+1/11/2021 1:02:06,New York City,,9,Home care,51,,12hours x 3 days ,,
+1/11/2021 1:39:15,,,,,,,,,
+1/11/2021 2:52:43,Manhattan,,2,Oncology,52,1.5,Night ,,MSKCC
+1/11/2021 5:15:49,Rochester ,,2.5,SICU,32.1,1,Nights ,,Strong Memorial Hospital 
+1/11/2021 5:45:23,North Creek,,7,"Care management, ltc ",33.6,1.6,Day m-f,,Opwdd 
+1/11/2021 5:52:32,Middletown,,1.5,Psychiatry (per diem),45,2.5,Evening,,Garnef Health Medical Center
+1/11/2021 6:34:01, New York City ,,6,Oncology/BMT,51,,,,Memorial Sloan Kettering Cancer Center 
+1/11/2021 7:35:48,New York ,,2.5,Vascular Access,49,2.5,Day,,NewYork-Presbyterian
+1/11/2021 8:24:50,Cortlandt Manor,,9,OR,45.9,,Day,,NYP
+1/11/2021 8:42:43,,,,,,,,,
+1/11/2021 8:50:17,Rome,,8,Icu,34,2.5,Critical care ,,Rome memorial hospital 
+1/11/2021 9:14:35,New York City,,9,Oncology,70,,,,
+1/11/2021 9:28:50,Stony brook,,3,PICU,39.25,,Days ,,Stony brook university hospital
+1/11/2021 10:46:30,Rochester ,,1,Advanced heart failure / transplant ,30.34,,,,Strong Memorial Hospital 
+1/11/2021 12:11:12,Levittown NY,,3,Radiology ,36.5,,Day shift ,,
+1/11/2021 17:14:17,Rochester,,2,Palliative/hospice,31,4,Shift differential ranges from about $2 overnight to $4 for overnight weekends,,Strong Memorial Hospital
+1/11/2021 20:11:16,Kingston,,0,Psych ,36,4,Nights ,,WMC 
+1/11/2021 23:17:25,Rochester,,0,Pediatrics,24,,,,English Road Pediatrics
+1/11/2021 23:17:39,Rochester,,0,Pediatrics,24,,,,English Road Pediatrics
+1/17/2021 8:57:57,NYC,,8,CCU,49,,,,
+1/17/2021 21:41:57,NYC,,4,IR,45,,,,
+1/17/2021 21:42:18,,,,,,,,,
+1/17/2021 21:42:30,,,,,,,,,
+1/18/2021 12:00:06,Dansville,,,,,,,,
+2/3/2021 1:21:16,Bay shore ,,2,L&d,50.23,,Nights,,Northwell 
+2/3/2021 1:21:26,Bay shore ,,2,L&d,50.23,,Nights,,Northwell 
+2/4/2021 20:53:16,Syracuse,,5.5,ICU,28.1,3,nights/orientor/charge/evenings,,Crouse Health
+2/8/2021 21:02:37,Roslyn ,,2,Cardiac,42,4,Night telemetry ,,St Francis
+2/8/2021 21:02:49,Roslyn ,,2,Cardiac,42,4,Night telemetry ,,St Francis
+2/9/2021 20:02:14,Rochester ,,4,Psych,29,3,Night,,Rrh 
+4/21/2021 21:59:34,Albany,,0,Cardiac-Tele,29,5,Nights,,
+4/22/2021 0:54:11,Rochester,,0,ER,28.48,,,,
+4/26/2021 13:05:25,New York,,0,COVID 19 Research ,43,,Mon-Friday 9 to 5,,
+4/26/2021 15:05:49,Patchogue,,2,Med/Surg,42,,,,Southampton
+4/30/2021 13:23:26,Rochester,,32,Pediatric ,43.14,,Day-school nurse,,
+5/23/2021 20:43:37,Buffalo,,0,Med surg,32,3,nights,,
+7/16/2021 16:14:09,New York City,,0,Med Surg,47,3,Night,,
+7/17/2021 4:22:18,NYC,,5,Neurosurgical ICU,51,4,Nights,,Mount Sinai Hospital
+9/5/2021 18:24:18,Bayshore,,0,Medsurge,47,,Nights,,
+9/17/2021 2:26:51,Stony Brook,,0,Cardiac,37,0.01,Night,,Stony Brook University Hospital
+10/7/2021 23:27:13,New Hyde Park ,,2,Telemetry,49,,,,Northwell LIJMC 
+1/14/2022 8:28:34,New York,,10,Research,68,,Day,,
+1/16/2022 1:20:35,New York,,5,Primary Care,45,,Day,,
+1/20/2022 16:56:01,Elmira,,1,L&D,34.24,4.62,Nights,,Arnot Health
+1/20/2022 17:41:52,Buffalo,,14,L&D,45.6,2.63,Nights,,
+1/21/2022 13:55:39,Rochester,,10,Primary care,37.5,,Days ,,Rochester VA
+1/21/2022 18:34:39,Albany,,,NICU,43.62,10.9,Weekend Days,,Albany Medical Center
+1/26/2022 13:29:54,NYC ,,6,BMT/Oncology,56,,"$1.80 more for any cert, $3 more for charge RN. NYP-weill cornell",,New york Presbyterian
+2/3/2022 21:59:04,Rochester ,,1.5,Med-Surg ,32.4,1,nights ,,Highland Hospital 
+2/4/2022 1:57:18,Stony brook,,0,,0,,,,Molloy
+2/20/2022 10:10:48,stony brook,,0,student,0,,,,none
+3/7/2022 12:08:27,New Hyde park ,,0,L&D,48.37,,Nights ,,
+3/18/2022 13:13:48,"New York, NY",,1,,40,,,,
+3/18/2022 13:19:59,Brooklyn,,0,OR & PACU,55,,Days,,
+3/18/2022 13:36:03,Saratoga Springs,,2,ICCU,27.6,,,,Saratoga Hospital
+3/18/2022 13:36:14,Saratoga Springs,,2,ICCU,27.6,,,,Saratoga Hospital
+3/18/2022 13:55:17,New york,,2,,51.72,,Days outpatient,,Mount sinai union square
+3/18/2022 13:54:49,New York City,,3,SICU,53,3,Night,,NYP Columbia 
+3/18/2022 14:49:27,Oneonta,,7,,36.72,2.4,Evenings ,,
+3/18/2022 15:19:44,,,20,,65,,,,
+3/18/2022 16:03:13,Long Island ,,12,Cardiac,54.31,2,Evening ,,Northwell
+3/18/2022 16:16:25,Rochester ,,15,"OB, nurse education ",45,,"D/E, leadership position ",,University of Rochester
+3/18/2022 16:18:40,,,,,,,,,
+3/18/2022 16:53:12,Rochester ,,0,NICU,30.38,1,Nights ,,URMC
+3/18/2022 17:04:10,NY,,0,LPN ,40,,Day shift,,Covid Quick clinic 
+3/18/2022 17:20:23,Saratoga Springs,,3,Med/Surg/Ortho,31.08,5.72,Nights,,
+3/18/2022 18:32:44,New York,,3,Allergy & Asthma,42,,Day,,Private clinic
+3/18/2022 19:25:39,Nyc,,4,MED SURG/ tele/ PACU,55.34,5.54,Nights,,Memorial Sloan Kettering 
+3/18/2022 21:46:10,Long Island,,13,Breast care navigator,65,3,Nights,,
+3/18/2022 22:09:01,White plains,,5,ASU,53,,"Day mon - fri, occasional Saturday ",,
+3/18/2022 22:51:41,Long island,,15,,50,4,Day,,Northwell
+3/19/2022 2:08:00,Rochester,,1,Postpartum ,32.96,2,Nights,,Highland Hospital
+3/19/2022 2:08:13,Rochester,,1,Postpartum ,32.96,2,Nights,,Highland Hospital
+3/19/2022 2:12:38,Albany,,1,L&D,34.6,4,Nights ,,Albany Medical Center 
+3/19/2022 7:39:31,Stony brook,,9,Pacu,48,133,Evening,,Stony Brook medicine
+3/19/2022 14:13:42,Buffalo ,,1,Med surg ,32,3,Night ,,ECMC
+3/19/2022 14:41:06,Rochester NY,,0,Med/surg,31,4,"New grad starting rate, night differential ",,URMC
+3/19/2022 18:49:07,New York City,,4,ICU,49.8,3.5,Unsure about nights,,NYP/Columbia
+3/19/2022 19:13:09,Montgomery ,,7,Infusion,57.45,4,Nights,,
+3/19/2022 20:04:36,Brooklyn,,5,Telemtry,53,5,Nights ,,NYU Langone Hospital
+3/19/2022 20:06:01,Brooklyn,,9,Telemetry ,52,5,Nights,,NYU Langone
+3/19/2022 20:07:00,"Brookyn, NY",,9,Telemetry ,52,5,Nights,,NYU Langone Brooklyn 
+3/19/2022 20:09:20,"Brooklyn, NY",,9,Telemetry ,52,5,Nights,,NYU Langone
+3/19/2022 20:12:46,Brooklyn,,9,Telemetry ,52,5,Nights,,NYU Langone 
+3/19/2022 20:16:30,Brooklyn,,9,Telemetry ,52,5,Nights,,NYU Langone
+3/19/2022 23:09:08,,,7,Progressive care,34,,,,
+3/19/2022 23:12:55,,,7,Progressive care,34,,,,
+3/19/2022 23:38:47,Syracuse,,4,Home care ,45,,Weekdays ,,
+3/20/2022 2:02:38,Bronx,,2,L&D,49,,Days,,Bronx care
+3/20/2022 2:05:29,,,,,,,,,
+3/20/2022 13:39:58,Middletown,,0,Cardiac,46.8,,,,Garnet Health
+3/20/2022 16:08:15,Buffalo,,3,,34,,,,
+3/20/2022 21:02:52,Port jefferson,,4,Med surg,49,1,Nights,,Mather hospital 
+3/23/2022 7:38:11,Buffalo ,,5,,40,1.5,Weekend ,,Roswell park
+3/23/2022 11:30:46,Rochester,,9,ICU,35.87,,,,Strong Memorial Hospital
+3/23/2022 11:31:05,Rochester,,9,ICU,35.87,,,,Strong Memorial Hospital
+3/26/2022 20:08:32,New york,,2,,55,58,,,Nyu
+3/26/2022 20:13:37,New York city,,8,Postpartum,52,,Day shift,,NYP
+3/26/2022 20:55:35,Babylon,,9,Infusion ,56,7,9-7:30,,Optum Home infusion
+3/26/2022 21:13:03,Oneonta ,,5,,39.75,2,Nights and weekends,,
+3/26/2022 21:27:11,Middletown,,2,Cardiac,45.64,,,,Garnet health medical center 
+3/26/2022 21:27:55,Buffalo,,1,Med Surg,33.6,3,Night shift,,Catholic Health
+3/26/2022 21:28:53,Buffalo,,1.5,L&D,34.6,3,Nights,,
+3/26/2022 21:33:24,Binghamton ,,6,ICU ,45,,Days,,
+3/26/2022 21:43:56,Elmira,,3,Wound Care,33.25,,,,Arnot
+3/26/2022 22:15:04,Rochester,,5,GI,35.01,,,,URMC
+3/26/2022 22:15:37,Rochester,,5,GI,35.01,,,,URMC
+3/26/2022 22:59:26,Rochester ,,7,Home care,33.58,,Mon-Fri days,,
+3/26/2022 23:29:13,"Mineola, NY",,5,Outpatient Urology Office,53,,Days monday to friday ,,NYU Langone - Long Island
+3/27/2022 0:32:24,New York,,9,Telemetry,52,4,Nights,,NYU Langone Brooklyn
+3/27/2022 7:58:46,Syracuse,,1,OB,32.65,3,"BSN, LPN of 3 years prior working in outpatient setting",,St Joe’s
+3/27/2022 10:39:45,New York City ,,6,CTICU,56,3,"Nights, preceptor, charge ",,New York Presbyterian
+3/27/2022 12:12:58,New York ,,4,CTICU,56,5,Nights,,NYU Langone
+3/27/2022 18:28:11,Queens ,,1,,90,7,Day,,
+3/27/2022 18:41:47,Mineola ,,3,Oncology ,52,,Day,,
+3/28/2022 9:43:59,Brooklyn ,,5,L&D,69.13,,Per diem,,
+3/28/2022 9:50:11,Brooklyn ,,5,L&D,69.13,,Per diem,,
+3/28/2022 16:18:58,,,0,Med/Surg,34.67,3.75,Nights,,
+3/30/2022 18:11:24,Riverhead,,8,Hospice ,59,,Unknown about shift diff,,Home Health Hospice
+4/7/2022 19:49:11,New York City,,2,School Nurse,60,,,,
+4/8/2022 21:41:53,White Plains,,6,Cardiac,49,5,"Bachelors, experience, clinical ladder",,White Plains Hospital
+4/8/2022 21:44:48,Mineola ,,18,PICU,62,,Day shift across the hospital for per diem ,,NYU Long Island 
+4/9/2022 2:39:51,New York,,12,"Nicu, pediatric care management ",126,,Day ,,NYP
+4/9/2022 2:40:41,Staten Island ,,5,ICU,50,,,,
+4/9/2022 5:56:21,Rochester ,,6,NICU,36,4.75,Night shift ,,Strong Memorial Hospital 
+4/9/2022 7:24:55,Carmel ,,1,Medsurg,38.25,5,Nights,,
+4/9/2022 8:53:22,Ithaca ,,10,L&D,38,,"Nights, weekends, critical care",,Cayuga Medical Center
+4/9/2022 10:01:09,Syracuse,,5,PACU,31,,Days,,upstate 
+4/9/2022 12:46:44,"New York, NY ",,10,Hematology Nurse Practitoner ,75,,M-f 8-4 ,,NYU
+4/9/2022 12:47:57,"New York, NY",,10,Hematology NP ,75,,M-f 8-4,,NYU
+4/9/2022 12:48:41,"New York, NY",,10,Hematology NP ,75,,M-f 8-4,,NYU
+4/9/2022 13:31:55,Upstate,,0,Imaging Center,35,,Day,,Imaging Center
+4/9/2022 17:01:15,Long Island NY,,32,,,,,,
+4/9/2022 17:02:48,,,,,,,,,
+4/9/2022 20:52:13,Port Jefferson ,,1.75,Med-surg/tele,43,3.17,3-11pm (evening) ,,
+4/9/2022 21:16:56,Rochester,,7,Pediatrics,38.3,2,Nights,,URMC
+4/9/2022 22:58:58,Buffalo,,16,Bariatric,25.5,,,,Clinic
+4/10/2022 10:48:21,Brooklyn,,8,GI/ same day surgeries OR,59,,Day Shift outpatient 7:00 am - 3:00 pm,,
+4/10/2022 15:54:41,Manhattan ,,3,Dialysis,44,,Days 15hr shift ,,Davita
+4/10/2022 15:54:58,Manhattan ,,3,Dialysis,44,,Days 15hr shift ,,Davita
+4/10/2022 15:55:24,,,,,,,,,
+4/10/2022 18:47:57,Rochester ,,5,ER,4225,,,,
+4/10/2022 18:50:11,Albany ,,13,Hospice,38.82,,Days,,
+4/10/2022 20:28:27,Rochester,,3,Cardiac,31.3,,,,URMC
+4/11/2022 17:54:20,Suffolk,,3,ED,50,2.5,Swing (1100 to 2330),,
+4/12/2022 19:05:59,New Hyde Park,,2,Internal Medicine,40,8,,,Northwell
+4/14/2022 7:23:45,West islip,,2,Icu,48,,Days ,,
+4/14/2022 21:14:27,,,,,,,,,
+4/14/2022 21:15:23,,,,,,,,,
+4/25/2022 19:19:35,NYC,,1,CTICU,53.68,3,Nights,,Lenox Hill
+4/25/2022 19:20:07,NYC,,1,CTICU,53,3,Nights,,Lenox hill hospital 
+5/11/2022 22:09:43,"Cortland, NY",,1,ICU ,31.2,,,,
+5/15/2022 11:25:23,Smithtown,,2,Cardiac telemetry,47,3,Nights,,St. Catherine of Siena Hospital
+5/16/2022 11:56:32,Staten Island,,0,ER,47.75,3.23,Nights,,Richmond University Medical Center
+5/24/2022 16:57:48,West Islip ,,10,Med-Surg,54.04,,,,Good Samaritan Hospital 
+6/1/2022 12:44:05,New York (Manhattan),,36,Pediatric Clinical Nurse Specialist,79,1.5,PRN Weekend overtime ,,Memorial Sloan Kettering 
+6/1/2022 20:23:33,Huntington ,,3,Med surg,49.15,,Days,,Huntington hospital
+6/3/2022 0:14:16,Manhattan,,0,Med Surg,53,5,Nights,,NYU Langone
+6/4/2022 23:26:17,Hopewell Junction,,2,Psychiatry ,25,3.5,,,
+6/7/2022 14:48:57,Poughkeepsie,,14,Home Health Care,50.4,,,,
+6/8/2022 0:27:29,New York city,,2,surgical icu ,53,3,"Nights, critical care ",,New York Presbyterian COLUMBIA 
+6/8/2022 0:31:50,Queens ,,2,Er,50.14,,,,Nypq
+6/8/2022 11:16:38,NYC,,1,CCU,56,,,,NYP-Cornell
+6/8/2022 16:57:44,New York ,,13,L&D,65,,Days ,,
+6/9/2022 6:34:53,Potsdam,,1,ICU,35.25,3.5,Nights,,Canton-Potsdam Hospital
+6/13/2022 17:12:09,,,,,,,,,
+6/16/2022 3:01:51,New York,,7,Cardiac ICU,55.78,3,Night,,Mount Sinai Hospital
+6/16/2022 13:52:47,New York City,,1,ICU,52.64,,Night diff - $3.07 BSN diff - $0.66,,New York Presbyterian- Columbia
+6/16/2022 22:17:56,Sleepy Hollow,,1,Med surg,40.19,,Dayshift,,Phelps hospital 
+6/21/2022 16:55:24,Queens,,2.5,Pediatrics,40,1,40 hours work week,,Tribeca Pediatrics
+6/23/2022 0:59:48,West islip,,3,Ltc,42,1.25,Nights,,Oloc
+6/23/2022 1:01:08,West islip,,3,Ltc,42,1.25,Nights,,Oloc
+6/27/2022 13:36:04,Western New York,,14,Jail,36,4,Nights ,,Jail 
+6/30/2022 15:38:52,New York,,11,Oncology,65,,Days,,
+6/30/2022 15:39:09,New York,,11,Oncology,65,,Days,,
+6/30/2022 19:37:49,Poughkeepsie,,14,Home Health Care,50.4,,,,
+7/1/2022 8:51:42,NYC,,3,Oncology (outpatient),51,,,,NYCBS
+7/2/2022 15:37:01,New York City,,0,Postpartum/Mother-Baby,52.3611,2.99,Nights and BSN,,Mount Sinai 
+7/8/2022 16:09:48,Rochester,,0,Cardiac ICU,30.38,1,,,University of Rochester
+7/9/2022 13:34:27,Queens,,30,,145000,,,,LIJMC 
+7/15/2022 1:44:55,Port Jervis,,8,ER,44.84,4.5,Nights,,
+7/18/2022 21:37:13,New York,,0,Med-Surg,53.31,,,,NYP Columbia 
+7/31/2022 19:51:10,New York City,,0,NICU,53,3,Nights,,
+8/1/2022 15:35:00,Utica,,9,Homecare,40,,,,
+8/1/2022 15:35:50,Utica,,9,Homecare,40,,,,
+8/4/2022 13:24:07,Utica,,1,IMCU,32.5,,,,MVHS/ St Elizabeth medical center 
+8/5/2022 22:09:51,New York City,,0,,,,,,
+8/5/2022 22:10:12,,,,,,,,,
+8/5/2022 22:10:56,,,,,,,,,
+8/5/2022 22:11:49,,,,,,,,,
+8/13/2022 12:13:59,Long Island,,0,Med surg/ telemetry / oncology,47.47,,,,
+8/22/2022 18:51:05,,,,,,,,,
+9/16/2022 13:48:58,Manhattan,,0,Med Surg,55.18,3.66,Nights,,NYP
+9/19/2022 22:22:01,New York,,1,Cardiac,47.5,3.3,Nights,,NYU Langone
+9/19/2022 23:52:35,Rochester,,9,oncology ,34.8,,,,
+9/25/2022 20:08:52,West Islip,,0,L&D,46.8,3.48,nights ,,Good Samaritan Hospital 
+9/25/2022 20:08:55,West Islip,,0,L&D,46.8,3.48,nights ,,Good Samaritan Hospital 
+10/4/2022 0:52:57,Glens Falls,,17,Med/Surg,51,10.2,Nights,,
+10/5/2022 6:26:19,cooperstown,,20,ICU,54,,days,,Bassett
+10/5/2022 22:48:56,Binghamton ,,9,Telemetry ,43,8,Nights ,,
+10/6/2022 17:37:36,Quens ,,0,Med Surg,49,3,Night,,NYP Queens
+10/6/2022 20:56:02,New York,,0,Geriatrics,47,,,,
+10/9/2022 12:44:50,Rochester ,,0,OR,33.15,,Day,,URMC
+10/16/2022 1:38:04,Harris,,1,Med-Surg/Tele,41,3,Nights,,Garnet Health Medical Center-Catskills
+10/16/2022 17:22:48,Albany,,0,PP,35,4,nights,,
+10/16/2022 17:32:03,New Hyde Park,,0,Tele-Oncology,47.8,2.79,BSN (2) and Night differential (.79) ,,Northwell Health
+10/24/2022 15:39:14,New York,,2,Med-Surg,54.36,3.07,Nights,,New York Presbyterian - CUIMC
+11/10/2022 9:39:51,Roslyn,,0,SICU,46.8086,3.05,Nights,,St.Francis Hospital
+11/19/2022 8:38:28,Mount Kisco,,3,Med surg,51,5,Night,,
+11/29/2022 1:51:28,White Plains,,6,ED (1 Year) MED-SURG 5,55.06,4,Nights 4.79,,
+12/1/2022 21:53:41,Mineola,,3,Telemetry,53.05,,,,NYU Langone Long Island 
+12/1/2022 22:07:48,Long Island ,,12,Hospice,57,,,,
+12/1/2022 22:10:35,"Port Jefferson , NY ",,3,,47.57,0.76,Bachelors degree ,,St. Charles Hospital 
+12/1/2022 22:17:20,Brooklyn,,8,PICU,90000,,,,NYHH 
+12/1/2022 22:24:08,Brooklyn,,7,Critical Care,125,,Swing shift/ travel ,,
+12/1/2022 22:39:38,Nanuet,,1,,,,,,Walford dermatology 
+12/1/2022 22:41:27,New York City,,7,Pediatric cardiology ,77,,,,Weill Cornell medicine 
+12/1/2022 23:26:48,Schenectady,,4,Cardiac,38,,,,
+12/2/2022 7:31:39,New York ,,20,Telemetry ,50,,Day shift ,,
+12/2/2022 9:18:26,Ithaca,,11,1st trimester sonography ,25,,,,
+12/2/2022 11:36:28,Port Jefferson,,7,IR,51,,BSN ,,Northwell Health Mather Hospital
+12/2/2022 17:16:01,NYC,,1,Med surg telemetry/step down float,52.4,4.9,Days ,,Lenox Hill
+12/2/2022 20:13:34,New York City (Manhattan),,2,Psychiatry,56.48,,Days,,New York Presbyterian / Weill Cornell
+12/2/2022 22:38:51,New York City ,,1,L&D,54,6000,Nights ,,Lenox hill 
+12/3/2022 8:19:00,Port Jefferson ,,3,ER,49.19,,,,Mather hospital 
+12/3/2022 8:33:54,Elmira ,,16,Outpatient Oncology,45,,,,
+12/10/2022 22:16:26,White Plains,,3,L&D,50.11,4,Nights ,,White Plains Hospital
+12/17/2022 22:42:02,"Far Rockaway, NY",,0,ED,49,2.75,Nights,,St. John’s Episcopal Hospital
+12/18/2022 13:47:02,,,0,Fertility / IVF,38.46,,,,
+12/19/2022 16:55:04,Suffolk County,,5,CTICU,54,3,Evening,,
+12/19/2022 18:03:26,Schenectady ,,2,Primary care ,30.77,,Days ,,Ellis
+12/19/2022 18:29:35,New York City ,,0,ER,53,,"6,000 more annually nights ",,NYU 
+12/19/2022 18:32:31,NYC ,,0,CSICU ,52.83,2.75,Days,,
+12/19/2022 18:33:39,NYC (Manhattan),,1.75,Oncology ,53.58,,,,
+12/19/2022 18:54:07,Albany,,0.5,Trauma,34.5,8.5,Nights/weekends,,
+12/19/2022 19:10:42,Mount kisco,,5,L&D,52.02,3,Night,,
+12/19/2022 20:06:26,Buffalo,,1,Oncology,34.2,6.5,"Nights, weekend, critical care",,Roswell
+12/19/2022 20:09:56,Bronx,,,,,,,,
+12/19/2022 20:22:18,Rochester,,1,L&D,33,1.5,Nights weekday,,
+12/19/2022 20:23:48,Rochester ,,1,L&D,33,1.5,Nights weekday,,
+12/19/2022 20:27:55,Saint Francis hospital,,1,MedSurg,51,4,Nights,,$51.00 per hour 
+12/19/2022 20:28:13,Buffalo,,12,,46.12,,,,
+12/19/2022 20:38:26,Brooklyn,,1,Med Surg,49,3.5,Nights ,,Wyckoff Heights Medical Center 
+12/19/2022 20:41:05,"kenmore, NY",,0,Cardiac,36.01,4.5,2 for evenings 2.5 for overnights,,KMH
+12/19/2022 20:43:01,Buffalo,,3,Pediatric Primary Care,27.5,3,Evenings and weekends,,
+12/19/2022 20:52:22,New york,,0,ER,52.14,2.5,Nights,,Mount sinai hospital main
+12/19/2022 21:02:38,Bronx ,,4.5,Ambulatory surgery,50.49,,Days Monday to Friday ,,Montefiore medical

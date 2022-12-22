@@ -1,0 +1,546 @@
+Timestamp,City ,Hospital Name/ Campus (Optional),Years of Experience,"Specialty (Cardiac, ER, GI, L&D, etc)",Hourly Base Pay (Diff not included),Shift Diff Amount (if any) ,"Type Of Shift Diff (nights, Baylor, Critical Care, Etc) "
+11/29/2019 21:06:24,"Voorhees, NJ",Virtua Health,12,Ortho,43.14,17,11p-7a
+11/29/2019 21:18:24,Secaucus ,Hudson Regional Hospital ,0,Telemetry ,35.74,1.5,Days
+11/29/2019 21:40:56,,,1,Cardiac,30.9,3,Night
+11/29/2019 21:41:28,,,1,Cardiac,30.9,3,Night
+11/29/2019 21:41:31,,,1,Cardiac,30.9,3,Night
+11/29/2019 21:41:35,,,1,Cardiac,30.9,3,Night
+11/29/2019 21:42:18,,,0,,34.5,6.5,Nights & weekends
+11/29/2019 21:49:51,Teaneck,Holy Name,0,Telemetry ,35.75,,4 nights
+11/29/2019 21:57:29,central nj,Capital Health,0,new grad,33.71,4,nights
+11/29/2019 21:56:24,,,6,O.R.,43.04,4,Evenings/nights
+11/29/2019 21:57:47,Kearny,Alaris at Belgrove,3,Geriatric,38,0.8,LTC Manager day shift
+11/29/2019 21:57:56,Kearny,Alaris at Belgrove,3,Geriatric,38,0.8,LTC Manager day shift
+11/29/2019 22:21:27,Teaneck,Holy Name,0,Telemetry ,35.75,,4 nights
+11/29/2019 22:45:07,Summit,AHS,1,Telemetry,38,3.75,Nights
+11/29/2019 22:49:39,Livingston ,,0,Cardiac ,37.18,3,Nights
+11/29/2019 23:02:23,Atlantic City,,9,Dialysis,41,43,Weekend
+11/29/2019 23:14:17,"Newark,NJ",RWJBARNABAS health- Newark Beth Israel ,1,Cardiac ,34.85,,Days 
+11/29/2019 23:18:51,Eastampton,Serenity Hospice,1,Hospice,32,,
+11/30/2019 0:50:36,,Valley,1,ER,38,4,Nughts
+11/30/2019 0:51:47,,HUMC,1,Critical care,35,5,1 bsn 4 night
+11/30/2019 0:57:05,,HUMC PAscack Valley,1,ER,37.8,2.75,Evening
+11/30/2019 5:12:48,Toms River,Community Medical Center,3,Telemetry,34.96,,
+11/30/2019 7:00:40,Mt Laurel,,14,Private duty,27,1,Weekend
+11/30/2019 7:49:48,Belle mead,Hackensack meridian carrier clinic,4,Psychiatric,35,3,Evening (from 3-7)
+11/30/2019 8:51:04,NEW JERSEY ,Case Management (Non-Hospital),10,Mother/Baby,32,,
+11/30/2019 8:51:30,Morristown ,Morristown medical center ,1,Neurology,34.5,6.25,Nights
+11/30/2019 9:46:39,New Brunswick,Robert Wood Johnson,,ER,47.74,,
+11/30/2019 10:33:57,Burlington,Acacia Hospice,1,Hospice,30,,PRN
+11/30/2019 12:16:30,Plainsboro nj,Penn Princeton medical center ,0,L&D,32.75,4,Nights
+11/30/2019 13:07:43,Bridgeton,,5,Psych,32,5,Weekend
+11/30/2019 14:22:38,Turnersville,Jefferson,3,ER,36,,Days
+11/30/2019 14:22:52,Turnersville,Jefferson,3,ER,36,,Days
+11/30/2019 20:33:23,Pennington,Capital Health,1,OR,33.77,,Nights
+11/30/2019 22:01:37,South Jersey,,0,ER,34,3,nights
+11/30/2019 22:11:46,Camden ,,4,Rehab,36.75,5,Nights
+12/1/2019 6:15:02,East Orange,,0.2,Nursing Home,35.7,,
+12/1/2019 8:02:40,New Brunswick,RWJUH,6,PICU,47.6,6.17,Nights
+12/1/2019 8:40:52,Morristown,Morristown medical center ,0,OR,34.5,,
+12/1/2019 9:52:16,Princeton,Penn medicine Princeton health,6,Psych,35,,
+12/2/2019 3:35:19,Vineland,,0,Med Surg,34.29,3.43,Nights
+12/2/2019 16:58:54,Central nj,,0,home care pediatrics,32,,
+12/3/2019 1:05:07,Camden ,,1,Surgical Tele,35,10,Nights 
+12/5/2019 7:12:09,,,,,,,
+12/5/2019 15:22:15,Marlton,,0,Substance abuse ,36,,
+12/5/2019 17:27:44,Newark,Beth israel,1,ER,35,,Night
+12/10/2019 9:01:31,Long Branch,,1,NICU,31.53,10,"Nights, float"
+12/10/2019 12:45:20,Lakewood,Monmouth Medical Center Southern Campus,0,Med-Surg/Tele,31.53,,Evenings and nights
+12/10/2019 15:34:47,Edison,,7,Ccu,39,4,Nights
+12/10/2019 23:02:07,Trenton,St. Francis Medical Center,0,Med Surg Float,31.71,35.55,Night/evening
+12/10/2019 23:10:10,Hamilton,Bayada Home Care Pediatrics,6,Home Care Pediatrics ,30,,Nights
+12/11/2019 2:30:21,New Brunswick ,Saint peters university hospital ,7,Peds,35,42,"Nights, certification "
+12/11/2019 15:40:13,"Neptune, NJ",Jersey Shore University Hospital (Hackensack meridian Health),1,Step down Neuro ICU/telemetry ,30.13,5,Nights
+12/13/2019 15:34:05,North Bergen ,Palisades Medical Center ,0,PCU,35,4.5,Night
+12/19/2019 8:50:15,New Brunswick ,,2,OR,39.9,6.48,Night 
+12/19/2019 18:44:10,Freehold,,0,OR,31.5,5,"Evenings ($3), Nights ($5)"
+12/28/2019 23:01:06,Holmdel ,Bayshore ,0,Med Surg,30,,Day
+1/17/2020 10:18:18,New Brunswick,,1,Cardiac ,38.11,6,Day
+1/17/2020 10:53:33,Montclair,Mountainside,2,Medical Surgical,34.27,1.6,weekend
+1/17/2020 11:35:34,Neptune ,Jersey Shore University Medical Center,16,L&D,43.78,5,Nights
+1/17/2020 11:43:56,Newark,Newark Beth,0,ED,37.5,4.5,11p-11a
+1/17/2020 12:29:36,,,2,Stepdown,33,,
+1/17/2020 12:29:53,,,,,,,
+1/17/2020 13:10:06,,,10,School Nurse ,74000,,
+1/17/2020 13:13:29,Little silver,,6,Dermatology,26,,I want to include I’m still an LPN at this rate
+1/17/2020 13:13:49,Little silver,,6,Dermatology,26,,I want to include I’m still an LPN at this rate
+1/17/2020 14:04:50,Flemington,Hunterdon Healthcare,,Med Surg,30.6,4,Nights 
+1/17/2020 14:20:42,Livingston,SBMC,8,NICU,59.34,,Per diem nights 
+1/17/2020 14:21:42,New brunswick,St. Peter’s ,7,Nicu,52,10.5,Per diem nights
+1/20/2020 16:33:53,Summit,,15,Cardiac/Neuro,60.84,,Days 7A-5P
+1/17/2020 18:11:03,Brick,Brick hospital,0,PEDS,,,
+1/17/2020 19:34:52,Bayshore,,3,Med Surg,46,4,Night
+1/17/2020 20:18:53,Passaic,St Mary’s,11,Cath lab ,37.62,,Days- m-f plus call 
+1/17/2020 20:57:17,Point Pleasant Beach,,4,Cardiac ,32,,
+1/17/2020 22:00:06,Edison,Hackensack Meridian Health,7,Medical surgical ,37.41,3.5,Evening 3p-11p
+1/17/2020 22:00:20,Edison,Hackensack Meridian Health,7,Medical surgical ,37.41,3.5,Evening 3p-11p
+1/17/2020 22:10:24,Somerset,,1,Dialysis,32,3,
+1/17/2020 22:10:40,Somerset,,1,Dialysis,32,3,
+1/17/2020 22:37:25,Paramus,New Bridge Medical Center,0,Med-surge,38.5,42.5,Nights
+1/17/2020 22:48:30,Toms river,RWJBH,2,Psych,33.39,3,Evening
+1/18/2020 2:02:04,Hackensack,Hackensack Meridian,2,Orthopedic ,38.5,4,Nights
+1/18/2020 8:30:18,Somerset County,,4,Psych,37,3,Evenings/Nights
+1/18/2020 9:11:02,Belleville NJ,,6,Med Surg,39,3.9,Nights
+1/18/2020 9:11:52,Hackensack ,,6,Med Surg,43,4,Nights
+1/18/2020 9:11:56,Hackensack ,,6,Med Surg,43,4,Nights
+1/18/2020 10:26:59,Newton,Newton Medical Center,2,ICU,39.28,,
+1/18/2020 13:50:54,Camden ,Cooper,0,,35.67,5,Nights 
+1/18/2020 14:03:27,New Brunswick ,RWJ ,9,Med surge,51.34,3.2,Days
+1/18/2020 23:32:26,Princeton ,,4,L&D,34.6,4,Nights
+1/19/2020 4:14:22,Morristown,Morristown Medical Center,1.5,Oncology,18.55,,
+1/20/2020 2:03:00,New Brunswick ,Saint peters university hospital,7,Pediatrics ,35,7,Nights and certification pay
+1/20/2020 13:46:40,Neptune,Jersey Shore University Medical Center,2,ER,30.5,3,Evening
+1/20/2020 18:53:49,Bergenfield ,,6,Pacu ,45,,Day
+1/21/2020 21:26:23,Edison,Hackensack Meridian Health JFK Medical Center,1,Cardiac ,31.5,2.5,"Weekends, nights, holidays "
+1/23/2020 15:35:15,,,,,,,
+1/24/2020 11:07:24,Elizabeth ,,4,OR,42,5,Nights
+1/24/2020 11:34:54,Ridgewood,,,Cardiac,38,4,"Nights, weekends"
+1/24/2020 11:35:03,Ridgewood,,,Cardiac,38,4,"Nights, weekends"
+1/24/2020 12:02:28,Hackensack,Hackensack Meridian Health ,2,OR ,35,4,Evening & weekends 
+1/24/2020 21:08:32,Vineland,Inspira,1,Cardiac,34.29,3.42,Nights
+1/25/2020 11:47:02,"Newark, NJ ",,1,Cardiac ,37.5,,Days
+1/26/2020 4:35:26,Newark,University Hospital ,6,Med Surg/PCU,33,3,Days Med Surg/PCU
+1/26/2020 4:37:35,Clifton ,Summit Medical Group ,7,Dermatology office ,35,,Days 8:30-5 office setting 
+1/29/2020 13:08:04,Lakewood,"Monmouth medical center, southern campus ",0.5,Med/surg-tele,30.03,,
+1/30/2020 9:50:58,Newark,University Hospital,3,ICU,40.42,3.5,nights
+1/31/2020 5:37:44,New Jersey ,,2,Newark Community Health,31.5,,8hr days 
+2/2/2020 22:35:55,,,,Peri-op ,31.9,,
+2/3/2020 0:53:21,Newark ,Newark Beth Israel Medical Center,5,NICU,38.19,,Days
+2/3/2020 0:53:48,Newark ,Newark Beth Israel Medical Center,5,NICU,38.19,,Days
+2/3/2020 5:26:37,Pompton plains ,Chilton Medical center ,12,Orthopedic,40.5,3.75,Night
+2/3/2020 21:53:40,Paterson ,SJ,2,Med Surg,34.5,1.5,Weekends
+2/5/2020 11:35:38,elizabeth,trinitas,1,er,42,,
+2/7/2020 19:19:23,Morristown,,0,Med/Surg,30.5,3.75,Nights
+2/10/2020 23:16:02,,,2,ER,37,4,Night
+2/18/2020 10:46:55,Bloomfield ,,3,,30.6,,
+2/18/2020 10:59:57,Neptune city, Jersey Shore University Medical Center,2,Observation,30.13,5,Nights 
+2/18/2020 17:50:49,"Livingston, NJ",,12,Burn Care,40,3,
+2/18/2020 18:20:31,Passaic,St. Mary’s General Hospital ,12,Cardiac Cath lab,37.22,2.5,Evening
+2/18/2020 18:51:11,New Brunswick ,St. Peter’s university hospital ,6,Peds ICU,34,,$6 extra an hour on top of base for CCRN 
+2/18/2020 18:51:28,New Brunswick ,St. Peter’s university hospital ,6,Peds ICU,34,,$6 extra an hour on top of base for CCRN 
+2/18/2020 18:52:51,Morristown ,,6,Picu ,36,,
+2/18/2020 18:53:12,,,,,,,
+2/19/2020 13:10:23,New Brunswick,Robert Wood Johnson University Hospital,2,CVICU,42,7,Nights
+2/19/2020 13:15:20,Morristown,Morristown Medical Center,3.5,Cardiac,38.5,3.5,Nights
+2/19/2020 13:15:26,Morristown,Morristown Medical Center,3.5,Cardiac,38.5,3.5,Nights
+2/19/2020 14:03:38,Ridgewood,Valley hospital ,0,Telemetry ,32,4,
+2/19/2020 16:41:42,Livingston,Saint Barnabas,0,L&D,38.5,3,Nights
+2/19/2020 16:53:21,teaneck,,2,women’s health ,35,4,nights
+2/19/2020 17:42:41,Englewood ,,6,OB,38.9,3.5,Night
+2/19/2020 17:46:00,Belleville ,Clara Maass Medical Center ,0,ER,35.99,3.59,Nights 
+2/19/2020 21:59:42,"Westwood, NJ",,8,ICU,40,,
+2/20/2020 0:34:57,,,,,,,
+2/21/2020 10:47:27,Galloway,,4,Longterm care,37,,
+2/21/2020 10:47:29,Galloway,,4,Longterm care,37,,
+2/23/2020 22:00:15,,,,,,,
+2/24/2020 23:05:40,Bridgewater,,7,ER,55,,None
+2/24/2020 23:29:38,Westwood,,1,Critical,33,2,"Critical care, days"
+2/25/2020 9:27:56,New Brunswick ,,3,CVICU,48,,
+2/25/2020 11:46:40,Woodbury ,Inspira ,5,Cardiac ,36.54,3.65,Night 
+2/25/2020 11:56:29,Morristown,,4,Med/surg,38,,Day 
+2/25/2020 13:19:26,Livingston,,3,Nurse Practitioner ,60,,
+2/25/2020 13:35:03,Summit,,2.5,Med surg,36.14,6,Night shift
+2/25/2020 14:17:18,Hamilton ,RWJ Hamilton ,2,Med Surg ,30.7,,Nights 
+2/25/2020 15:00:43,Rutherford ,Rwj barnabas health ,10,CTICU,39,,Days
+2/25/2020 15:38:11,East Orange ,VA,5,Med/surg,40,5,Nights
+3/24/2020 18:50:53,Hackensack ,Hackensack University Medical Center ,2,Oncology ,35,4,Weekends 
+3/24/2020 18:51:08,Hackensack ,Hackensack University Medical Center ,2,Oncology ,35,4,Weekends 
+3/24/2020 18:51:29,,,,,,,
+3/26/2020 15:08:21,Belleville,Clara Maass Medical Cw ter,1,ER,35.994,,Days FT
+3/26/2020 16:12:19,Manahawkin ,,,,,,
+3/31/2020 19:55:47,Atlantic City,Bayada Home Health Care (Pediatrics) ,1,,22,23,Weekends 
+3/31/2020 19:56:11,Hackensack ,Hackensack University Medical Center ,8,L&D,40,4,Nights
+3/31/2020 20:52:08,Hackensack,Hackensack Meridian Health,4,ICU,44,4,Nights and additional 4 for weekends
+3/31/2020 23:28:06,Bloomfield ,,4,Geriatric,30.6,,
+3/31/2020 23:43:25,"Elizabeth, NJ",,1,Med Surg,28,,day
+4/1/2020 0:49:23,"Summit, NJ",Overlook Medical Center,1,Surgical,38.95,3.75,"Nights is 3.75, weekend is $1.50 "
+4/1/2020 1:11:29,Toms River ,,4,Nursing supervisor/administration ,42.25,,
+4/1/2020 6:21:52,Bayonne,BMC,8,Med Surg,69,,Per diem/ 2 weekend shifts per pay period
+4/1/2020 16:25:58,,,0,ICU,37.68,3.5,Nights
+4/1/2020 23:35:23,Newark,Newark Beth Israel Medical Center ,0,Cardiac & Neuro,34,,Days
+4/8/2020 22:41:49,Atlantic city,,4,Er,39,3,Weekends
+4/8/2020 22:42:06,Atlantic city,,4,Er,39,3,Weekends
+4/13/2020 13:18:28,Princeton,,13,NICU,43,,
+4/26/2020 19:08:06,Newark,Newark beth Israel medical center ,6,PICU,38,,
+4/26/2020 19:12:38,Morristown ,,6,PICU,45,,
+4/26/2020 19:18:05,Camden,,1,Med surg- cardiac step down/post transplant ,35.46,4,Nights
+4/26/2020 19:20:19,New Jersey ,,8,Home care ,50,,Day 
+4/26/2020 19:23:51,Morris County,,5,Home Health,33,,
+4/26/2020 19:26:50,,,1,,35.99,,Day 
+4/26/2020 19:57:29,Cherry hill ,,1,,36,,
+4/26/2020 19:57:38,Cherry hill ,,1,,36,,
+4/26/2020 20:29:38,Neptune,,29,NICU,40,5,Nghts
+4/26/2020 22:03:23,,,1,Pharma Drug safety,47,,"9-5, days"
+4/26/2020 22:42:00,Bloomfield,Clara Maass Medical Center,0,ER,35.94,3.85,Nights
+4/26/2020 23:35:42,Montclair,,15,ICU,55,,Days
+4/27/2020 2:39:30,Hackensack,,1,Pediatrics,36,4,Nights 
+4/27/2020 9:31:48,,Hackensack,2,Nicu,35.7,,
+4/27/2020 22:49:22,Newark ,University Hospital ,6,Med Surg,33,3,After 3pm and weekend 
+5/14/2020 0:02:14,Edison,Hackensack Meridian Health ,1.5,Cardiac ,40.05,2.5,On call
+5/14/2020 0:05:17,Newark,Saint Joseph’s Medical Center,1.5,Cardiac ICU step down,34,6.8,Nights
+5/14/2020 0:16:33,Vineland,,1,Medsurg,34.25,38.5,Night
+5/14/2020 0:17:18,,,,,,,
+5/14/2020 0:24:05,Teaneck ,HNMC ,6,Med Surg,37,,Days 
+5/14/2020 0:34:29,Hoboken,Medical office ,9,Allergy LPN,29.31,,
+5/14/2020 0:49:46,,,,,,,
+5/14/2020 0:50:01,,,,,,,
+5/14/2020 1:01:06,,,0,Cardiac surgery ,34.65,,Nights
+5/14/2020 5:20:38,Flemington,,3,"GI, OR",33.66,,Day
+5/14/2020 6:40:19,Paterson,,2,L& D,35,,
+5/14/2020 8:07:22,,,,,,,
+5/14/2020 8:11:17,,,,,,,
+5/14/2020 8:12:10,,,,,,,
+5/14/2020 8:12:23,,,,,,,
+5/14/2020 10:10:30,,,,,,,
+5/14/2020 12:01:28,Manahawkin,,2,Med surg ,32.13,4,Nights
+5/14/2020 16:07:50,North Bergen ,Palisades ,1,Icu,35,4,Nights
+5/14/2020 21:52:52,Neptune,Jersey Shore University Medical Center,2,ER,30.73,3,Evening
+5/15/2020 5:30:49,Camden,Cooper,1.5,Oncology ,36,,Day
+5/15/2020 6:12:18,Long branch ,Monmouth medical center ,0,Med surg ,31.6,5,Nights 
+5/15/2020 11:02:48,New Brunswick,Robert Wood Johnson University Hospital,2,Oncology ,39.9,6.7,Nights
+5/15/2020 18:21:00,Neptune,Jersey shore university medical center,0,Cardiac tele,28,30.13,BSN
+5/19/2020 1:56:34,Newark,,6,,32,,
+5/19/2020 15:55:58,Elizabeth ,,2,ER,39.86,3.5,nights
+5/19/2020 17:11:51,Millburn ,Davita ,4,Dialysis ,39,,Day
+5/23/2020 19:11:37,Moorestown,Bayada ,15,Home health,27,1,Days
+5/23/2020 20:11:04,Paterson NJ,St Joseph,2,Med Surg,38,,
+5/23/2020 22:20:31,,Hackensack’s internal agency,15,Cath Lab/ER,90,135,Call back & OT
+5/23/2020 23:24:04,Saddle brook,,2,Cardiac,45,,Per diem
+5/24/2020 8:30:03,Paterson,,10,,34,,
+5/24/2020 10:25:13,Englewood,,2,Cardiac,36,,
+5/24/2020 15:42:22,,,,,,,
+5/24/2020 15:42:34,,,,,,,
+5/24/2020 16:03:59,Harrison,,9,Ambulatory Surgery ,40,,Days
+5/24/2020 16:04:25,,,,,,,
+5/24/2020 19:49:51,Edison ,Jfk University ,1,Telemetry,39.65,3.5,Nights
+5/24/2020 22:05:58,,,,,,,
+5/24/2020 22:06:18,,,,,,,
+5/24/2020 22:06:30,,,,,,,
+5/24/2020 22:07:31,,,,,,,
+5/24/2020 22:07:55,,,,,,,
+5/24/2020 22:08:42,,,,,,,
+5/25/2020 7:51:02,Pompton Plains,Chilton Medical Center,12,Orthopedic,41.75,3.75,Night
+6/9/2020 2:52:35,Hackensack,,2,Peds,42,4,Nights
+6/9/2020 2:52:42,Hackensack,,2,Peds,42,4,Nights
+6/14/2020 2:08:50,North Bergen,Palisades Medical Center,2,Med-Surg,36.25,3.25,Nights
+6/14/2020 2:09:04,North Bergen,Palisades Medical Center,2,Med-Surg,36.25,3.25,Nights
+6/14/2020 2:09:05,North Bergen,Palisades Medical Center,2,Med-Surg,36.25,3.25,Nights
+6/19/2020 20:39:56,Morristown,,1,med surg,34.5,,day
+6/26/2020 19:45:43,,,,,,,
+6/26/2020 19:45:55,,,,,,,
+6/27/2020 21:43:03,Bergen County NJ,,7,Med surg,46,4,
+7/7/2020 19:23:19,,,,,,,
+7/8/2020 20:51:04,Morristown,Morristown ,8,Medical Surgical,46.8,,
+7/8/2020 22:23:53,,,1,ICU,35.75,4,nights 
+7/9/2020 4:21:56,,,1,Med-Surg,36.45,,
+7/9/2020 7:45:59,Newton NJ,Atlantic Health System ,0,Med Surg,34.5,3.75,Nights
+7/9/2020 9:10:28,Camden,,10,Newborn ICU,40,4,Evening
+7/9/2020 9:31:11,,,2,Telemetry ,31,,
+7/9/2020 9:31:22,,,2,Telemetry ,40,,
+7/11/2020 4:25:59,Roxbury ,,25,LD ,52,,
+7/16/2020 22:37:46,,,,,,,
+7/17/2020 23:46:57,Secaucus ,Hospital,0,OR,36.45,,
+7/23/2020 17:53:57,livingston,,12,OR,51,,Per Diem
+7/28/2020 22:49:02,Voorhees,,8,OR,42,7,Nights
+8/21/2020 16:33:39,New Brunswick,,1,Mother Baby,32,3.4,Nights 
+8/24/2020 23:57:00,New Brunswick,,8,Oncology,35.7,,
+8/25/2020 14:10:17,Marlton,Kessler Rehabilitation,2,Acute Rehab,31.83,,
+8/27/2020 2:56:20,Cherry hill NJ-70 ,Newborn Nurses ,1,Pediatric ,30,,Both 
+8/27/2020 2:56:22,Cherry hill NJ-70 ,Newborn Nurses ,1,Pediatric ,30,,Both 
+9/8/2020 15:15:44,North Bergen ,Hackensack meridian health at Palisades ,1,Pcu,37,3.25,Nights
+9/12/2020 8:16:40,,,,,,,
+9/14/2020 18:09:37,Wayne,St.Josephs hospital ,7,OR,43,,
+9/14/2020 18:09:52,Wayne,St.Josephs hospital ,7,OR,43,,
+9/14/2020 20:34:23,Maplewood,,2,Hospice,40,2,night
+9/14/2020 21:24:39,Rockleigh,,1,Nursing home,33,,Day
+9/14/2020 21:42:08,Egg Harbor Township ,AtlantiCare mainland ,3,telemetry ,37,,Days
+9/14/2020 22:37:23,Barnegat,,5,SNF admin,42,,Days
+9/14/2020 22:43:04,Brick,Ocean Medical,0,Geriatric Med Surg,40.24,5,Day 7-7
+9/14/2020 22:53:00,Rahway ,Robert Wood Johnson Rahway ,0,Med surge ,33.25,,
+9/14/2020 22:53:04,Rahway ,Robert Wood Johnson Rahway ,0,Med surge ,33.25,,
+9/14/2020 23:13:42,Princeton,,3,OR,39.71,,
+9/14/2020 23:12:31,,,4,,45,,
+9/14/2020 23:12:46,,,4,,45,,
+9/14/2020 23:13:33,,,4,,45,,
+9/14/2020 23:14:12,,,4,,45,,
+9/15/2020 0:22:24,Toms River nj ,,3,ER,36.5,5,Nights 
+9/15/2020 7:40:01,Newark ,University Hospital ,0,ER,37.05,3.5,Nights 
+9/15/2020 7:40:25,Newark ,University Hospital ,0,ER,37.05,3.5,Nights 
+9/15/2020 9:15:52,Morristown,Morristown medical center,6,PICU,39.83,3.74,Nights
+9/15/2020 9:56:53,New Jersey ,EHI,6,Chronic care management ,20.195,,
+9/15/2020 16:31:05,New Brunswick,,5,Cardiac,35,,
+9/15/2020 16:51:05,Livingston,,2,,37,,
+9/15/2020 16:52:50,,,,,,,
+9/15/2020 19:54:13,Ridgewood,Valley Hospital,3,Mother Baby,40,3,"Evenings, Overnights, Weekends"
+9/16/2020 0:16:45,Red Bank,Riverview Medical Center,1,Cardiac Step Down,40.68,5,Nights 
+9/16/2020 1:30:47,Middletown,,0,Med/Surg,38,5,Night
+9/16/2020 1:30:53,,,,,,,
+9/16/2020 20:52:03,Freehold,,1,ER,32.45,,Day
+9/17/2020 9:32:51,Absecon,AtlantiCare,10,OB,42.2,5,nightshift
+9/19/2020 11:24:19,Voorhees,Virtua,0,"Med surg, women’s health ",36.62,5.38,Nights 
+9/21/2020 15:20:44,Summit,,4,Neuro ICU,42,3.75,Nights
+9/21/2020 18:04:12,Hackensack ,Humc,5,Er,45,4,
+9/27/2020 18:00:45,Bergen county ,,5,,38.92,4,"Nights $+4, weekends +3"
+10/1/2020 18:18:35,Jersey City,,2,Tele/ icu step down ,39,1.5,Nights 
+10/9/2020 5:17:44,Denville,Saint Clares,0,OB,34,3,Nights 
+10/11/2020 4:16:06,,,,,,,
+10/22/2020 19:14:16,Voorhees ,,12,Surgical services ,43,,Days
+10/25/2020 17:29:54,Salem ,Salem medical center ,1,Peri-op,32.86,,
+10/25/2020 17:37:43,"Princeton, NJ",Princeton Medical Center,2,OB,38,4,Nights
+10/25/2020 17:56:54,Montclair,,5,Private duty home health care ,32,2,Day shift 
+10/25/2020 18:18:38,Ridgewood,The valley hospital,4,OR,42.7,,Days
+10/25/2020 18:38:03,Long branch ,Monmouth medical ,0,l&D,31.5,5,Nights 
+10/25/2020 18:50:52,Englewood ,,5,OR,38,,
+10/25/2020 18:57:02,,,,,,,
+10/25/2020 19:39:47,Paterson ,,0,Trauma/post op,37,1.5,Day shift
+10/25/2020 19:46:12,New Brunswick ,RWJUH,7,Cardiac,52,6.75,Nights 
+10/25/2020 19:47:02,"Cherry hill, nj ",Jefferson health nj ,3.5,ICU ,37.5,,Day shift
+10/25/2020 19:46:53,New Brunswick ,RWJUH,7,Cardiac intermediate care,52,6.75,Nights 
+10/25/2020 19:47:39,,,5,L&D,36,3,Night
+10/25/2020 19:48:33,"Cherry hill, nj ",Jefferson health nj ,3.5,ICU ,37.5,,Day shift
+10/25/2020 20:00:31,,,14,,,,
+10/25/2020 20:02:37,Denville,St Clare’s Hospital Denville,8,Ortho/surgical,41.46,,
+10/25/2020 20:27:35,Ridgewood,Valley Hospital,1,Med/Surg Float,39.18,8,Float pool diff
+10/25/2020 20:39:33,Belleville,Clara Maass,6,Medsurg/Tele,40.47,,Days
+10/25/2020 20:51:55,Elizabeth,Care one ,5,Med surg,50,,
+10/25/2020 20:53:56,Engelwood,,0,Med/Surg,35,,Day
+10/25/2020 20:54:34,Engelwood,,0,Med/Surg,35,,Day
+10/25/2020 21:20:30,Hackensack NJ,"Hackensack University Cancer Center, John Theurer Cancer Center",6,Oncology,44.5,,
+10/25/2020 21:28:32,Camden,,8,ICU,39,,Days 
+10/25/2020 21:28:50,North New Jersey,,0,Mother Baby,40.44,4,Nights
+10/25/2020 21:35:35,"Paramus, New Jersey ",,10,Home care ,50,,Day 
+10/25/2020 22:00:39,Somerset,,4.5,Family Practice/Urgent Care,36,,
+10/25/2020 22:14:39,Teaneck ,Holy Name Health,2,ICU,36.85,4,Nights
+10/25/2020 22:29:38,Livingston,St. Barnabas Medical Center,9,OR,42,,
+10/26/2020 11:56:55,Camden,Cooper,0,Cardiology ,36.4,0.15,Night
+10/25/2020 23:05:22,Toms river,Community medical center,3,Med surg,33.69,5,Nights
+10/25/2020 23:05:35,Toms river,Community medical center,3,Med surg,33.69,5,Nights
+10/25/2020 23:05:57,Toms river,Community medical center,3,Med surg,33.69,5,Nights
+10/25/2020 23:33:52,Newton,Newton medical center ,1,Cardiac ,38.57,3.75,3.75 night shift + 1.60 weekend 
+10/26/2020 0:16:31,Stratford,,2,Hospice,36,1.75,Evenings
+10/26/2020 2:10:54,Marlton ,Kessler Institute for Rehabilitation ,4,Acute rehab,33.75,1.5,Nights and weekend
+10/26/2020 2:10:59,Marlton ,Kessler Institute for Rehabilitation ,4,Acute rehab,33.75,1.5,Nights and weekend
+10/26/2020 2:43:47,Morristown,Morristown Medical Center,2,ER,39,3.7,Nights
+10/26/2020 6:53:48,,,2,Cardiac,40,,
+10/26/2020 8:47:24,Montclair,Mountainside,3,MedSurg ,34.78,,Day
+10/26/2020 8:56:02,Hoboken,Fresenius Medical Care,6,Dialysis,39,2,Evening/weekend/charge nurse 
+10/26/2020 8:56:42,Ridgewood ,,26,NICU,51.34,4,Nights
+10/26/2020 8:57:09,Ridgewood ,,26,NICU,51.34,4,Nights
+10/26/2020 11:58:08,Atlantic City,Atlanticare,2.5,Med surg,31.65,5,Nights
+10/26/2020 12:00:14,,,,,,,
+10/27/2020 21:11:02,Denville,Saint Clare’s Denville,2,Surgical/orthopedic surgery,34.66,3,Nights
+10/27/2020 23:20:25,,An ambulatory surgery center,10,PACU,44.7,,Day
+10/28/2020 16:42:43,Jersey city,,1,ER,37.61,2,Nights
+11/13/2020 19:24:35,South Plainfield,,1,Geriatrics,25.48,,All
+11/18/2020 10:50:49,Morristown,,1,med surg,34.5,,days
+11/18/2020 10:51:11,Belleville ,Nursing home,4,Geriatric,40,,"Days, evenings"
+11/18/2020 10:52:25,Newark,,,ER,35.9,,Nights
+11/18/2020 10:54:13,Newark,,,ER,35.9,,Nights
+11/18/2020 10:57:23,Morristown,,5,HD,33,,
+11/18/2020 15:16:33,,,,,,,
+11/18/2020 15:16:52,,,,,,,
+11/18/2020 15:59:56,Hopewell ,,7,Cardiac,42.5,,
+11/18/2020 16:00:23,Hopewell ,,7,Cardiac,42.5,,
+11/18/2020 20:15:32,Newark ,University Hospital ,1,OR,38.87,3.5,Evening 
+11/18/2020 22:22:22,Washington Township ,Jefferson Health New Jersey,2,,35.8,4,Night
+11/18/2020 22:22:43,Washington Township ,Jefferson Health New Jersey,2,,35.8,4,Night
+11/18/2020 22:22:46,Washington Township ,Jefferson Health New Jersey,2,,35.8,4,Night
+11/18/2020 22:23:01,Hoboken,Hoboken university medical center,2,ER,36.35,2.5,Mid shift 
+11/19/2020 0:05:15,Phillipsburg ,St Luke’s ,4,Er,31.85,2,
+11/21/2020 19:03:37,Newark,University Hospital,4,Med surg,39.8,5.5,Float diff
+12/12/2020 0:35:17,washington,,1,,36,,
+12/12/2020 0:35:28,washington,,1,,36,,
+12/12/2020 0:36:21,washington,,1,,36,,
+12/14/2020 11:01:17,Edison ,JFK Medical Center ,1,Tele ,37.81,4,Nights 
+12/14/2020 11:01:18,Edison ,JFK Medical Center ,1,Tele ,37.81,4,Nights 
+12/14/2020 11:02:30,Edison ,JFK medical center ,1,Tele ,38.81,4,Nights 
+12/20/2020 8:47:26,Rockleigh,,0.5,Subacute,33,,
+12/20/2020 8:49:02,Rockleigh,,0.5,Subacute,33,,
+1/7/2021 23:18:50,Pompton plains,,15,Outpatient infusion/ oncology,46,,Day
+1/10/2021 23:39:08,New Brunswick,Saint Peters University Hospital,1,mother baby ,32,3.4,nights
+1/10/2021 23:39:21,New Brunswick,Saint Peters University Hospital,1,mother baby ,32,3.4,nights
+1/10/2021 23:40:10,"Morris Plains, NJ",,5,Psych,30,,Days
+1/10/2021 23:52:09,Hasbrouck Heights,,4,REI,45,,Days
+1/10/2021 23:54:05,Morristown ,,6,Oncology,39.8,1,Day
+1/11/2021 0:09:52,Summit ,Overlook,1,Med/surg,34.75,3.5,Nights
+1/11/2021 1:09:38,,,,,,,
+1/11/2021 1:09:54,,,,,,,
+1/11/2021 1:10:23,,,,,,,
+1/11/2021 1:22:50,Livingston,,3,(CCU/ICU),41.51,4,"$4 nights, 1.50 weekends"
+1/11/2021 1:23:22,Livingston,,3,(CCU/ICU),41.51,4,"$4 nights, 1.50 weekends"
+1/11/2021 1:23:40,Livingston,,3,(CCU/ICU),41.51,4,"$4 nights, 1.50 weekends"
+1/11/2021 2:06:06,Morristown,,8,,27,,
+1/11/2021 3:02:22,,,5,Geriatric ,43.26,,
+1/11/2021 5:26:27,Mt. Holly,Virtua Memorial,1,ICU/ PCU,46.61,,"Evening, night, weekend"
+1/11/2021 6:21:31,Pompton plains ,Atlantic health system - Chilton ,0.5,IMCU Neuro ,38,6.25,Nights
+1/11/2021 6:22:02,Pompton plains ,Atlantic health system - Chilton ,0.5,IMCU Neuro ,38,6.25,Nights
+1/11/2021 7:50:16,New brunswick,,10,IR,40,,Day
+1/11/2021 8:39:17,Montclair,Mountainside,3,MedSurg,35.78,1.6,day
+1/11/2021 8:44:09,Newark,Newark Beth Israel Medical Center,11,NICU,43.47,,Dayshift
+1/11/2021 9:45:12,Pennington,Capital health - Hopewell,0.5,L&D,34.4,4,Nights
+1/11/2021 10:11:48,Camden,Cooper University Hospital,4,Cardiac,37,,
+1/11/2021 11:37:27,"Marlton, NJ",Virtua Hospital,1,,35.75,,
+1/11/2021 16:45:33,Somerset,,2,Dialysis,32,,
+1/11/2021 18:45:32,.,,,,,,
+1/11/2021 20:08:24,Paterson ,Substance Abuse Clinic,2,substance abuse,26,,6-1pm
+1/11/2021 22:13:45,Hackensack ,Hackensack University Medical Center,6,Oncology,55.47,,
+1/11/2021 22:54:33,Hackensack,,1,LTC,42,,Nights 
+1/16/2021 6:20:05,Perth Amboy,,1,ER,40.24,3,Nights
+1/18/2021 11:47:41,Union county,,0,Pediatric ,,,Nights 
+1/26/2021 20:56:06,,,,,,,
+1/26/2021 20:56:17,,,,,,,
+2/5/2021 16:44:40,,,,,,,
+2/5/2021 16:45:51,,,,,,,
+2/5/2021 16:46:37,"Hoboken, NJ",,2,Oncology,,2.88,night
+2/7/2021 12:10:40,,,,,,,
+2/7/2021 12:13:46,,,,,,,
+2/7/2021 13:45:09,Holmdel,Riverview,2,LTC/med surg,40,5,days
+2/23/2021 6:23:00,Wayne,,0,Tele,37,1.5,Weekends
+2/24/2021 5:22:44,"Ridgewood, NJ",The Valley Hospital,0,ER,38.13,4,After 3pm ($4) and weekend ($2.50)
+3/13/2021 15:56:46,East Orange,East Orange General,2,ICU,34.9,5,Night
+4/26/2021 14:38:54,north bergen,palisades,0,med surg,37,,
+5/23/2021 23:12:01,Union,,0,,,,
+7/26/2021 23:21:32,Manahawkin ,Hackensack ,1,OR,34,2.75,
+8/21/2021 23:14:39,Vineland,Inspira,0,Med surg w/tele,35.85,39.435,Nights
+8/29/2021 8:54:51,Livingston,Saint Barnabas Medical Center,5,OR,39.72,4,"BSN = +$1/hr, MSN = $1.25/hr, Weekend = $1.50/hr, Charge Pay = $2/hr, Preceptor Pay = $2/hr"
+9/13/2021 23:11:49,Summit,,3,ER,43,3.75,Nights
+11/25/2021 13:29:34,Manahawkin ,,0,MS,37,5,Nights
+12/27/2021 21:08:19,Saddle Brook,Kessler,3,Inpatient rehab,39.4,3,"Nights, weekends"
+12/27/2021 21:10:29,Kearny,Alaris,1,SNF/LTC,32,,
+1/3/2022 22:56:37,,Ambulatory,11,OR,52,,
+1/21/2022 19:24:07,Hackensack,,30,ICU,57,,
+1/22/2022 8:41:28,Elizabeth,RWJBH-Trinitas,3,ER,41.33,3.5,Nights/evenings
+2/16/2022 21:41:50,Princeton,,0,RN,,35,
+3/18/2022 13:14:33,Camden,Cooper,4.5,Surgical care,38.81,0.06,"Nights, evening, traveler, baylor, holiday"
+3/18/2022 13:33:14,Hasbrouck Heights ,,6,Infertility ,45,,
+3/18/2022 14:12:07,Denville ,,0,urology outpatient ,33,,day no weekends 
+3/18/2022 14:28:27,Toms River ,Community Medical Center ,1.5,Med Surg/ Tele ,40.32,5,Nights 
+3/18/2022 15:19:29,West Orange,,10,Rehabilitation ,45.29,4,"Weekend, Charge RN"
+3/18/2022 15:22:44,Pomona ,,1,NICU,34.18,,
+3/18/2022 15:22:55,Pomona ,,1,NICU,34.18,,
+3/18/2022 16:50:02,Somerville,RWJUH,1,Cardiac,39,,Day 
+3/18/2022 17:24:16,Hillsdale,,24,Operating Room,50,,
+3/18/2022 17:29:00,Cherry Hill,Virtua,8,Case Management,34,,Days
+3/18/2022 18:10:14,Newark,,2,PICU,40,,days
+3/18/2022 19:19:43,Livingston,,6,Dermatology office,35,,Day
+3/18/2022 21:53:55,,,5,ICU,42,,
+3/18/2022 22:07:53,Pompton lakes,Atlantic health,17,Med surg,49,,Days
+3/19/2022 0:00:39,Montvale nj,MSK,25,Oncology,68,,Days
+3/19/2022 0:10:35,Bayonne,,15,ER,40.39,,Night / Critical care
+3/19/2022 1:21:48,Paterson,DaVita,6,Peritoneal Dialysis,42,,
+3/19/2022 12:54:16,Neptube,Hackensack Meridian Health,1,NICU,40.45,5,Nights
+3/19/2022 18:39:40,Vineland,Inspira ,1,NICU,38,5,nigh
+3/19/2022 18:39:54,Vineland,Inspira ,1,NICU,38,5,nigh
+3/19/2022 23:05:22,Newark ,,0.5,CT step down ,39,4,Nights 
+3/20/2022 20:26:33,Long branch ,Monmouth medical ,0,Operating room ,40.13,,Days
+3/23/2022 9:56:09,Paterson,,2,Surgical Trauma ICU,44,5,Nights 
+3/23/2022 10:29:18,Freehold,Centrastate,7,Med/surg. Orthopedics,41,3,
+3/23/2022 22:58:35,Boonton. Newton,St. Clare's ,4,Behavioral health,37,2.5,Nights
+3/26/2022 20:10:27,,,,,,,
+3/26/2022 20:19:22,Paterson,St. Joseph’s Health,12,ICU,52,,5 for nights $10 for weekends - per diem rates
+3/26/2022 20:49:01,,,1.5,,44,,Days
+3/26/2022 21:22:12,Camden,Virtua Our Lady of Lourdes,5,Cardiac ,40.1,4,Nights
+3/26/2022 21:23:23,Mt holly,Virtua ,5,Pcu,41.25,4.1,Nights
+3/26/2022 21:41:21,Harrington park ,,19,Interventional radiology ,52.08,,Am 
+3/26/2022 22:57:46,Paterson,SJHMC,5,Tele,46,5,Nights
+3/27/2022 3:09:13,Perth Amboy,Raritan Bay,0,Telemetry,39.05,,
+3/27/2022 11:11:59,Long Branch ,,3,Floor pool,39,12.5,"Night shift, float pay"
+3/27/2022 13:11:44,Princeton,Penn Med Princeton ,9,ED,47,,Day
+3/28/2022 14:17:31,Atlantic County,,26,,47,,
+3/29/2022 9:51:19,Morristown ,,12,PICU ,45,,
+3/31/2022 10:13:04,Perth amboy,,1,Icu,40,3,Night shift
+4/8/2022 21:44:53,Newark ,,3.5,CTICU,41.23,5,Night shift
+4/8/2022 21:46:37,Newark ,,3.5,CTICU,41.23,5,Nights
+4/8/2022 21:57:37,Pennington,,5,NICU,48.5,4,Nights
+4/8/2022 22:10:18,livingston,,26,postpartum,49,,
+4/8/2022 22:13:35,Stratford,Jefferson Hospital (formerly Kennedy),1,Med/Surg,42.5,3.75,Nights
+4/8/2022 22:28:33,Marlto ,CareOne,1,,30,3,Evenings
+4/8/2022 22:28:51,Marlto ,CareOne,1,,30,3,Evenings
+4/9/2022 7:55:44,New brunswick,St peters,3,Post partum,43,,
+4/9/2022 20:17:28,Toms River ,,6,L&D,41.25,5,Nights 
+4/9/2022 20:20:11,Toms River ,,6,L&D,41.25,5,Nights
+4/9/2022 23:59:15,Lakewood ,,1.5,Nicu,40,5,Nights 
+4/10/2022 8:30:20,Glen Ridge,Summit Health,10,Ortho,39,,Office days
+4/10/2022 14:48:14,"The beach, NJ",,5.5,,35,,
+4/10/2022 20:46:21,Newark,,2,Addiction,40,,6-2
+4/10/2022 20:48:15,Newark ,,2,,40,,
+4/10/2022 21:44:52,,,,,,,
+4/10/2022 22:15:48,Ridgewood,,2.5,Float Pool Med/Surg,44,4,nights
+4/13/2022 20:45:30,,,,,,,
+4/13/2022 23:04:12,Somerville,RWJ Somerset,2,Neuro,38.8825,,
+4/14/2022 10:16:53,Jersey City,JCMC,2,ER,40,,Mids 
+4/14/2022 10:18:07,Jersey City,JCMC,2,ER,40,,Mids 
+4/18/2022 22:22:29,Mount holly,Virtua,5,Pcu,38,,
+4/20/2022 12:18:53,,,,,,,
+4/20/2022 12:19:07,,,,,,,
+4/21/2022 0:25:36,Trenton,,10,Step Down,41,,Days
+4/25/2022 4:35:54,Princeton,Princeton Nassau Pediatrics,2,Pediatric outpatient,25.5,,Day
+5/6/2022 20:44:23,Paterson,,0,ED,43,2.15,Weekends
+5/12/2022 10:10:49,summit,overlook,2,med-surg,50.38,,
+5/24/2022 19:03:32,Hackensack,Hackensack University Medical Center,0,ER,43.49,4,Nights
+5/28/2022 5:44:15,Morristown ,,3,"Mother baby (2years), L&D ( 6 months) ",43.4,3.6,Nights
+5/28/2022 6:41:14,Newark ,Newark Beth Israel ,7,ICU/CCU,42.6,5.12,Nights
+5/30/2022 2:02:28,Cape May ,,12,Dialysis,50,,
+5/30/2022 5:10:57,"Newark, NJ",,1,Pediatrics ,40.6,4.95,Nights
+6/2/2022 11:32:58,,,4,ICU,40,5,Nights ($5)
+6/2/2022 14:58:25,Ridgewood,,6,ER,48.1,4,Nights
+6/2/2022 18:34:51,saddlebrook ,,1,PREOP/PACU,43,,
+6/3/2022 8:50:31,Teaneck,,4,Med-Surg,46.5,,
+6/9/2022 5:23:51,Pomona,,8,Med-Surg,43,,
+6/14/2022 0:07:56,Willingboro ,Select Specialty  ,1,LTC,43,,Day
+6/14/2022 0:40:57,Hackensack,Hackensack Meridian,7,NICU,47,4,Nights 
+6/25/2022 8:26:29,Hackensack ,,25,OB,59,4,
+6/28/2022 16:28:40,Summit,,0,heme/onc,41.5,,days
+7/7/2022 14:34:35,Morristown,Morristown medical center ,4,Med surg ,48,6,Nights
+7/13/2022 14:21:25,Pomona ,,1,Med surg,39.2,,
+7/15/2022 7:13:01,Bergenfield,Surgery center,14,Surical,50.5,,Days
+8/6/2022 8:56:50,Hackensack,,8,Oncology,54.5,,
+8/22/2022 18:53:59,Mt. Holly,Virtua,5,PCU,42,10,night
+9/19/2022 19:02:34,Hackensack ,Hackensack University Medical Center,16,SICU,60.2,4,Weekend
+9/20/2022 2:45:28,Denville ,St Clares ,1,Medical Surgical ,38.82,3,Nights
+10/3/2022 21:18:54,Elizabeth,Trinitas,0,ER,43,6,3pm-0700am
+10/5/2022 15:44:25,Denville ,,2,GI ,37,,
+10/24/2022 23:54:10,"Elizabeth, NJ",TRMC,1.5,L&D,37.6,3.5,Nights
+10/25/2022 2:06:40,Paterson,,3,NICU,44,6.45,"$6.45 nights, $8.60 weknd nights, $1 certified nurse"
+10/25/2022 15:30:12,Summit,Overlook Medical Center,2,ER,45,,
+11/2/2022 20:50:23,Hackensack,Hackensack University Medical Center,0,Ortho,45.66,4,Nights
+11/7/2022 13:35:53,Pompton plains,,17,Outpatient oncology,54.5,,Days
+11/8/2022 18:50:46,Freehold ,CentraState ,1.5,Med surg ,44,3,Day. $3 diff from 1500-1900 
+12/1/2022 21:52:33,Dover,,6,Wound care clinical nurse manager ,45,,Day
+12/1/2022 21:54:42,Cranford ,RWJBH,21,ICU,52.25,6,Nights
+12/1/2022 21:55:01,"Dover, NJ",Saint Clare’s wound center,6,Wound care clinical nurse manager ,45,,Day
+12/1/2022 21:56:50,Dover NJ,St clares Dover wound center ,6,Wound care clinical nurse manager ,45,,
+12/1/2022 22:00:31,Dover,St clares Dover wound center ,6,Wound care clinical nurse manager ,45,,
+12/1/2022 22:02:31,Dover,St clares Dover wound center ,6,Wound care clinical nurse manager ,46,,
+12/1/2022 22:08:05,Voorhees ,Fresenius outpatient dialysis ,3,Dialysis ,42.5,4.25,Nights 
+12/1/2022 22:10:37,Remote,,10,"Cardiac 8 years, currently case management for 2",43.75,,
+12/2/2022 0:01:06,New Jersey,Trinitas Regional Med Center,10,Psych,52,,
+12/2/2022 6:59:40,Manahawkin ,Hackensack meridian ,2,Hospice ,50,,Days
+12/2/2022 7:19:43,Linden ,,5,Informatics ,50,,
+12/2/2022 7:47:27,Newark,RWJ Barnabas Health Clara Maass,3,L&D,41.96,5,Nights
+12/2/2022 10:37:38,Galloway ,Atlanticare,14,Nicu,46,,Per diem
+12/2/2022 11:17:14,Montclair,Healogics,2,Wound Care,44,,"outpatient, days"
+12/2/2022 15:46:09,Elizabeth ,Trinitas ,1,Cardiac ,43,6,Nights 
+12/2/2022 21:18:32,Newark,Our patient clinic,3,Addiction,40,,Morning
+12/3/2022 8:10:41,Edison,,0,ER,44.49,4,Nights
+12/3/2022 11:50:50,Camden,Cooper hospital,6,Critical care,40.8,,
+12/3/2022 11:51:52,Camden,Cooper hospital,6,Critical care,40.8,,
+12/3/2022 16:21:31,Hackensack ,HUMC,0.5,Cardiac,45.66,4,Night
+12/4/2022 3:38:22,Madison,Atlantic Health Rehab Institute,7,Acute care ,30,2.5,Nights
+12/4/2022 19:04:12,Marlton,,9,Addictions/detox,39.11,,
+12/16/2022 7:29:03,Little Silver,,5,Derm,29,,days- LPN
+12/16/2022 12:36:16,Flemington ,,7,ER,47,,"Day Shift 3, 12s, 36 hr per week, mandatory on call hours monthly which vary "
+12/18/2022 23:02:16,Vineland,,4,Outpatient Oncology ,42,,
+12/19/2022 4:00:55,Somers point,,4,ED,39.19,5,Nights
+12/19/2022 16:30:54,Elmer ,,2,Medsurg,40.45,0.1,Nights
+12/19/2022 16:35:59,Red Bank,,1,Stroke,42.6,,
+12/19/2022 18:51:56,New Brunswick ,RWJ new brunswick ,1,ER,46.5,,night
+12/19/2022 18:59:35,Hackensack ,,4,Pediatrics supervisor ,55,,Days
+12/19/2022 19:23:18,Englewood,Englewood hospital,0,Cardiac/tele,37,,FT days
+12/19/2022 19:41:37,,,0.5,NICU,44.86,6,Night 
+12/19/2022 19:41:55,Livingston,,0,NICU,41,4,Days
+12/19/2022 19:43:33,Livingston,,0,NICU,43,4,Days
+12/19/2022 19:53:15,Livingston,Cooperman Barnabas Medical Center,0,Float ,43,4,nights
+12/19/2022 19:55:47,Galloway,ARMC,4,Cardiac/Tele,41.75,6,Days
+12/19/2022 20:52:11,Toms River,,10,,33,5,Nights
+12/19/2022 20:58:28,Camden,Cooper University Hospital ,3,Med surg,40.75,,
