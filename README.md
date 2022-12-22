@@ -42,6 +42,8 @@ First, it is important to get the correct model for the comparison to fit to. A 
 
 ## Cost of living Adjustment
 The cost of living adjustment had a large effect. Originally with no adjustments there was a pay gap that progressively shrinks with years of experience between NY, NJ, and CO, respectively. With the adjustment - all states have their salaries lowered as all states had a cost of living that was higher than the national average. The most expensive state to live in was NY, followed by NJ, and then CO. The best hourly pay by years of experience changed from NY for all years of experience to NJ being the best until roughly year 12.5. NY is the second best until roughly 2.5 years, where it then becomes increasingly the worst of the three states.
+</br>
+
 <img src="./Images/CoLFit.png" />
 </br>
 
